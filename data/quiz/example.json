@@ -1,0 +1,100 @@
+{
+    "quiz_title": "Item 159 - Tuberculose",
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "La Rifampicine colore les liquides biologiques en...",
+            "options": [
+                "Violet",
+                "Orange",
+                "Bleu",
+                "Jaune",
+                "Brun"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel antibiotique peut entrainer une neuropathie périphérique ?",
+            "options": [
+                "Amoxicilline",
+                "Ethambutol",
+                "Pyrazinamide",
+                "Isoniazide",
+                "Azithromycine"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quelles tuberculoses sont dites extra-pulmonaires ?",
+            "options": [
+                "Tuberculose miliaire",
+                "Tuberculose ganglionnaire",
+                "Tuberculose osseuse",
+                "Tuberculose génitale"
+            ],
+            "answer": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quelle toxicité principale peut provoquer l'utilisation d'Ethambutol ?",
+            "options": [
+                "Neuropathie périphérique",
+                "Anémie hémolytique",
+                "Asthénie sévère",
+                "Hyperuricémie",
+                "Névrite optique"
+            ],
+            "answer": 4
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Dans quelles situations débute-t-on un traitement dans le cadre d'une infection tuberculeuse latente ?",
+            "options": [
+                "Femme enceinte",
+                "Âge <18 ans",
+                "Infection tuberculeuse récente",
+                "Âge >65 ans",
+                "Immunodéprimé ou patient susceptible de le devenir"
+            ],
+            "answer": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel test immunologique de détection de l'ITL utiliser avant l'anti-TNF ?",
+            "options": [
+                "IDR",
+                "IGRA"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels sont les facteurs de risque importants impliqués dans la survenue de la tuberculose ?",
+            "options": [
+                "Le tabac",
+                "La dénutrition",
+                "Le diabète",
+                "Les conditions socio-économiques défavorables",
+                "L'hypercholestérolémie",
+                "Une immunodépression acquise",
+                "Les migrants en provenance d'une zone de forte endémie"
+            ],
+            "answer": [
+                1,
+                3,
+                5,
+                6
+            ]
+        }
+    ]
+}
