@@ -1,0 +1,86 @@
+{
+    "quiz_title": "Item 149 - Angines",
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "L'angine est majoritairement d'origine...",
+            "options": [
+                "Bactérienne",
+                "Fongique",
+                "Virale"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "single_choice",
+            "question": "Une antibiothérapie est indiquée uniquement en cas d'angines à streptocoque du groupe A",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels signes fonctionnels peuvent être présents lors d'une angine ?",
+            "options": [
+                "Odynophagie",
+                "Otalgie réflexe",
+                "Troubles digestifs",
+                "Dysphagie",
+		"Douleur pharyngée"
+            ],
+            "answer": [
+                0,
+                1,
+                2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quelles sont les indications d'hospitalisation lors d'une angine ?",
+            "options": [
+                "Femme enceinte",
+                "Âge >65 ans",
+                "Infection tuberculeuse récente",
+                "Diabète de type 2",
+		"Diphtérie",
+		"Complications de l'angine streptococcique"
+            ],
+            "answer": [
+                4,
+                5
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quelle est la principale cause d'angine virale ?",
+            "options": [
+                "EBV",
+                "Coronavirus",
+		"Adénovirus",
+		"Myxovirus influenzae",
+		"Rhinovirus"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du score de Mac Isaac :",
+            "options": [
+                "Il est applicable à partir de 15 ans",
+                "Un âge ≥45 ans vaut pour zéro point",
+                "Une présence de toux vaut pour un point",
+                "Il s'applique aux angines érythémateuses ou érythémato-pultacées",
+		"Une fièvre >38°C vaut pour un point",
+		"Il est recommandé de réaliser un TDR si le score de Mac Isaac ≥1"
+            ],
+            "answer": [
+                0,
+                3,
+                4
+            ]
+        }
+    ]
+}
