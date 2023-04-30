@@ -26,19 +26,17 @@
         },
         {
             "type": "multiple_choice",
-            "question": "Quels signes fonctionnels peuvent être présents lors d'une angine ?",
+            "question": "A propos du scanner cérébral lors d'une méningo encéphalite ...",
             "options": [
-                "Odynophagie",
-                "Otalgie réflexe",
-                "Troubles digestifs",
-                "Dysphagie",
-		"Douleur pharyngée"
+                "Est inutile si une IRM est réalisable en urgence",
+                "Ne permet pas d'écarter les diagnostics différentiels",
+                "Est le plus souvent normal en cas d'encéphalite",
+                "Peut montrer des anomalies précoces",
+		"Est non irradiant"
             ],
             "answer": [
                 0,
-                1,
-                2,
-		4
+                2
             ]
         },
         {
