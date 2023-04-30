@@ -1,0 +1,98 @@
+{
+    "quiz_title": "Item151_Meningites",
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Les méningites virales sont plus fréquentes que les méningites bactériennes chez",
+            "options": [
+                "La femme enceinte",
+                "Le vieux schnock",
+                "L'enfant et l'adulte jeune",
+		"Le nourrisson"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "single_choice",
+            "question": "La première cause de méningo-encéphalite à liquide clair est...",
+            "options": [
+                "Entérovirus",
+                "HSV",
+		"VIH",
+		"Virus ourlien",
+		"VZV"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels signes fonctionnels peuvent être présents lors d'une angine ?",
+            "options": [
+                "Odynophagie",
+                "Otalgie réflexe",
+                "Troubles digestifs",
+                "Dysphagie",
+		"Douleur pharyngée"
+            ],
+            "answer": [
+                0,
+                1,
+                2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les agents responsables d'une méningite purulente sont ...",
+            "options": [
+                "Borrelia spp.",
+                "Streptococcus pneumoniae",
+                "Mycobacterium tuberculosis",
+                "Neisseria meningitidis",
+		"Listeria monocytogenes"
+            ],
+            "answer": [
+                1,
+                3,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel traitement mettre en place contre pneumocoque ou méningocoque ?",
+            "options": [
+                "C3G + DXM",
+                "C3G seule",
+		"DXM seule",
+		"Abstention thérapeutique",
+		"Amoxicilline + Gentamicine"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les signes de gravité des méningites et méningo-encéphalites nécessitant une hospitalisation en réanimation sont...",
+            "options": [
+                "Purpura extensif",
+                "Immunodépression",
+                "Femme enceinte",
+                "Glasgow ≤ 11",
+		"Signes de focalisation neurologique",
+		"Lactates ≥2",
+		"Etat de mal convulsif",
+		"Dépression sévère",
+		"Instabilité hémodynamique",
+		"Insuffisance rénale",
+		"Signes de souffrance du tronc cérébral"
+            ],
+            "answer": [
+                0,
+                3,
+                4,
+		6,
+		8,
+		10
+            ]
+        }
+    ]
+}
