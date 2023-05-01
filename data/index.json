@@ -1,8 +1,8 @@
 {
     "items": [
-        { "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" },
         { "title": "Angines (Item149)", "file": "Item149_Angines" },
         { "title": "Méningites (Item151)", "file": "Item151_Meningites" },
-	{ "title": "Endocardites (Item152)", "file": "Item152_Endocardites" }
+	{ "title": "Endocardites (Item152)", "file": "Item152_Endocardites" },
+	{ "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" }
     ]
 }
