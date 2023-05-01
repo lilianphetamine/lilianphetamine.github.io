@@ -1,7 +1,7 @@
 {
-    "quizFiles": [
-        "Item159_Tuberculose",
-        "Item149_Angines",
-	"Item151_Meningites"
+    "items": [
+        { "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" },
+        { "title": "Angines (Item149)", "file": "Item149_Angines" },
+        { "title": "Méningites (Item151)", "file": "Item151_Meningites" }
     ]
 }
