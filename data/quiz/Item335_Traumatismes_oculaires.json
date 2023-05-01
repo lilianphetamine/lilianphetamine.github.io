@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "A propos des contusions de globe :",
+            "options": [
+                "Une érosion superficielle de la conjonctive est mise en évidence à la fluorescéine",
+                "Une contusion du globe est un traumatisme à globe fermé",
+                "Une rupture de la choroïde peut faire évoquer un syndrome du bébé secoué",
+                "La résorption d’un hyphéma est spontanée si son origine est antérieure",
+		"En cas d’hémorragie importante de la conjonctive, on recherchera une plaie sclérale sous jacente ou un corps étranger intraoculaire au bloc opératoire"
+            ],
+            "answer": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des traumatismes à globe ouvert :",
+            "options": [
+                "Les ruptures du globe oculaire ont lieu sur les zones de moindre résistance, comme la limbe scléro-cornéenne",
+                "Un traumatisme perforant donnera forcément des plaies de mauvais pronostic",
+                "Une rupture du globe oculaire peut être révélée par une hypertonie",
+                "Un traumatisme perforant peut se compliquer d’une atrophie du globe oculaire, donnant une cécité complète définitive",
+		"Une rupture du globe oculaire peut être révélée par une hémorragie intravitréenne"
+            ],
+            "answer": [
+                0,
+                3,
+                4
+            ]
+        }
+    ]
+}
