@@ -1,0 +1,312 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Quel est le seul cas où on ne fait pas d'ECBU ?",
+            "options": [
+                "Pyélonéphrite aiguë simple",
+                "Pyélonéphrite gravidique",
+                "Infection urinaire masculine",
+                "Cystite aiguë simple"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels sont les terrains à risque de complication ?",
+            "options": [
+                "Sexe féminin",
+                "Âge >25 ans et <60 ans",
+                "Grossesse",
+                "Âge >65 ans avec ≥5 critères de fragilité ou âge >75 ans",
+                "Immunodépression",
+		"Insuffisance rénale chronique modérée"
+            ],
+            "answer": [
+		2,
+		4
+	    ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les trois signes de gravité d'une IU (PNA ou IU masculine) sont...",
+            "options": [
+                "Choc cardiogénique",
+                "Sepsis (qQOFA ≥2)",
+                "Asthénie sévère",
+                "Choc septique",
+		"Indication d'un geste de drainage urologique hors sondage vésical simple"
+            ],
+            "answer": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les critères de fragilité de Fried sont ...",
+            "options": [
+                "Perte de poids involontaire au cours de la dernière année",
+                "Vitesse de marche lente",
+                "Faible endurance",
+                "Faiblesse / fatigue",
+                "Activité physique réduite",
+		"Âge >75 ans"
+            ],
+            "answer": [
+		0,
+		1,
+		2,
+		3,
+		4
+	    ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les agents pathogènes responsables d'infections urinaires sont ...",
+            "options": [
+                "Entérobactéries (E. Coli)",
+                "Staphylococcus gallolyticus",
+                "Staphylococcus aureus",
+                "Staphylococcus saprophyticus",
+                "Pseudomonas aeruginosa",
+		"Streptocoques oraux",
+		"Corynebacterium urealyticum",
+		"Pneumocoques",
+		"Entérocoques"
+            ],
+            "answer": [
+                0,
+                3,
+                4,
+		6,
+		8
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "A partir de combien d'épisodes (pendant 12 mois consécutifs) une cystite est dite récidivante ?",
+            "options": [
+                "3",
+                "4",
+		"5",
+		"6"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les antibiotiques avec une prévalence <5% de résistance...",
+            "options": [
+                "Fosfomycine - trométamol",
+                "Amoxicilline",
+                "Pivmécillinam",
+                "Aminosides",
+                "C3G"
+            ],
+            "answer": [
+                0,
+                3
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les antibiotiques avec une prévalence >20% de résistance...",
+            "options": [
+                "Fluoroquinolones",
+                "Amoxicilline",
+                "Pivmécillinam",
+                "Amoxicilline - Acide clavulanique",
+                "Cotrimoxazole et triméthoprime"
+            ],
+            "answer": [
+                1,
+                3,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel antibiotique ne doit pas être prescrit en probabiliste chez un patient ayant reçu ce même antibiotique en traitement dans les 6 mois précédents ?",
+            "options": [
+                "Aminosides",
+                "Amoxicilline",
+		"Fluoroquinolones",
+		"Cotrimoxazole"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "single_choice",
+            "question": "La BU détecte les bactéries à partir de ...",
+            "options": [
+                "10² bactéries / mL",
+                "10³ bactéries / mL",
+		"10⁴ bactéries / mL",
+		"10⁵ bactéries / mL"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "single_choice",
+            "question": "La BU détecte les leucocytes à partir de ...",
+            "options": [
+                "10⁴ Leuco / mL",
+                "10⁵ Leuco / mL",
+		"10⁶ Leuco / mL",
+		"10³ Leuco / mL",
+		"10² Leuco / mL"
+            ],
+            "answer": 0
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Lors d'une colonisation urinaire, l'ECBU n'est jamais demandé sauf pour deux exceptions...",
+            "options": [
+                "Âge >75 ans",
+                "Immunodépression",
+                "Sepsis",
+                "Femme enceinte à partir de 4 mois (bactériurie ≥10⁵ /mL)",
+                "Avant une intervention sur les dents de sagesse",
+		"Avant une intervention sur les voies urinaires"
+            ],
+            "answer": [
+                3,
+                5
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "À propos de la cystite aiguë simple ...",
+            "options": [
+                "De la fièvre peut être présente",
+                "Pollakiurie, brûlures mictionnelles et mictions impérieuses sont des signes fonctionnels",
+                "Une hématurie macroscopique n'est jamais présente",
+                "Une ECBU peut être demandée",
+                "L'imagerie est inutile",
+		"Une guérison spontanée s'établit dans 80% des cas",
+		"Une récidive est présente dans 20-30% des cas"
+            ],
+            "answer": [
+                1,
+                4,
+		6
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Le traitement de 1ère intention lors d'une cystite aiguë simple est ...",
+            "options": [
+                "Fluoroquinolones",
+                "Amoxicilline",
+		"Fosfomycine-Trométamol",
+		"Carbapénèmes",
+		"Amoxicilline-Acide Clavulanique"
+            ],
+            "answer": 2
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Lors d'une cystite à risque de complication...",
+            "options": [
+                "L'ECBU est indispensable",
+                "Si la patiente n'a plus de symptômes une fois les résultats de L'ECBU obtenus, aucun antibiotique ou contrôle n'est nécessaire",
+                "Si la patiente présente encore des symptômes, le traitement antibiotique est d'emblée orienté",
+                "Si les symptômes sont d'emblée trop importants, on ne met pas en place une antibiothérapie probabiliste"
+            ],
+            "answer": [
+                0,
+                1,
+		2
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les deux antibiotiques à but de prophylaxie utilisés lors des cystites récidivantes sont...",
+            "options": [
+                "Amoxicilline",
+                "Pivmécillinam",
+                "Nitrofurantoïne",
+                "Triméthoprime",
+		"Fosfomycine-Trométamol"
+            ],
+            "answer": [
+                3,
+                4
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Quels examens sont systématiques lors d'une PNA simple sans signe de gravité ?",
+            "options": [
+                "Hémocultures",
+		"BU",
+                "Imagerie",
+                "NFS, CRP",
+                "Créatinine",
+		"ECBU"
+            ],
+            "answer": [
+                1,
+		5
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Quels examens sont systématiques lors d'une PNA à risque de complication sans signe de gravité ?",
+            "options": [
+                "Hémocultures",
+		"BU",
+                "Imagerie",
+                "NFS, CRP",
+                "Créatinine",
+		"ECBU"
+            ],
+            "answer": [
+                1,
+		2,
+		3,
+		4,
+		5
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les antibiotiques diffusant bien dans le tissu prostatique sont...",
+            "options": [
+                "L'amoxicilline",
+		"Fluoroquinolones",
+                "Acide clavulanique",
+                "Cotrimoxazole",
+                "Vancomycine"
+            ],
+            "answer": [
+                1,
+		3
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos du diagnostic positif d'une IU masculine...",
+            "options": [
+                "Elle associe fièvre et signes urinaires",
+		"Troubles neurologiques",
+                "Troubles mictionnels",
+                "Le toucher rectal est utile",
+                "On recherche systématiquement une rétention aiguë d'urine",
+		"La fièvre est toujours présente",
+		"Les hémocultures sont faites systématiquement",
+		"BU et ECBU sont systématiques",
+		"L'imagerie est indiquée par échographie des voies urinaires par voie endorectale en urgence à la phase initiale/aiguë"
+            ],
+            "answer": [
+                0,
+		2,
+		3,
+		4,
+		7
+            ]
+        }
+    ]
+}
