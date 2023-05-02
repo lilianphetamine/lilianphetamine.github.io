@@ -1,0 +1,17 @@
+1- Bilan en fin de QCMs (note /20)
+Barème = 1 erreur = 0.5/1 ; 2 erreurs = 0.2/1 et 3 erreurs ou plus = 0/1
+Si 10 QCMs = note sur 10 à retranscrire sur 20, si 7 QCMs = note sur 7 à retranscrire sur 20...
+ATTENTION = Barème particulier pour les "simple_choice", si uniquement et seulement la bonne réponse est cochée = 1/1 mais si tout autre item est coché ou bien l'item vrai est sélectionné avec aussi un/des item(s) faux = 0/1 directement (c'est un tout ou rien comme QCM, pas le droit à l'erreur, faut cibler l'unique bonne réponse pour avoir tous les points sinon on a zéro) 
+
+
+2- Ajout d'une CORRECTION à la fin de chaque QCM (correction à rajouter dans la trame des qcms je suppose ?)
+Après validation d'un QCM la correction apparait en même temps que les vrais/faux (flags etc) pour aiguiller l'utilisateur et l'aider à comprendre ses erreurs
+
+
+3- Couleurs des items (background) après la validation/vérification des réponses cochées [comme expliqué dans la discussion Messenger]
+Background vert clair pour les items vrais sélectionnés (+flag/bordure noirs)
+Background rouge clair pour les items faux sélectionnés (+flag/bordure de la couleur actuelle lorsqu'il y a une erreur)
+Item vrai non sélectionné = background normal (pas de changement) MAIS flag vert + bordure verte
+Item faux non sélectionné = background normal (pas de changement) et flag rouge et bordure noire
+
+

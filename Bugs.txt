@@ -1,0 +1,1 @@
+- Il est possible de sélectionner plusieurs réponses dans un "simple_choice"
