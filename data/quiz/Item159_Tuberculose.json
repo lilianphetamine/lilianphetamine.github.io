@@ -94,6 +94,53 @@
                 5,
                 6
             ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la tuberculose :",
+            "options": [
+                "La tuberculose est la 1ere cause de mortalité par maladie infectieuse dans le monde",
+                "10% des tuberculoses sont des infections à Mycobacterium bovis",
+                "Une personne incarcérée est à risque de tuberculose",
+                "L’incidence la plus élevée dans le monde est en Amérique latine",
+                "La tuberculose est une maladie endémo-épidémique à transmission interhumaine par voie aérienne à partir d’un patient excréteur de bacille de Koch"
+            ],
+            "answer": [
+                2,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du granulome tuberculeux :",
+            "options": [
+                "Les lipides produits par les macrophages épithélioïdes gigantocellulaires vont servir de nutriments aux mycobactéries",
+                "La production de caséum par accumulation de lipides est spécifique des mycobactéries du Mycobacterium Tuberculosis Complex",
+                "Dans le granulome mature, les macrophages giganto-cellulaires épithélioïdes sont adossés contre une couronne fibroblastique contre laquelle s’agrègent des lymphocytes T",
+                "Les BK peuvent s’externaliser par voie hématogène lors d’une rupture du granulome",
+                "Les parois des cavernes sont tapissées de débris cellulaires et de caséum constituant une biophase nutritive pour le BK"
+            ],
+            "answer": [
+                0,
+                1,
+                2,
+                3,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des tuberculoses extra-pulmonaires :",
+            "options": [
+                "Elles représentent 25% des cas de tuberculose en France",
+                "La tuberculose neuro-méningée a un début brutal et un syndrome neuro-méningé",
+                "La tuberculose des voies urinaires est rare mais souvent asymptomatique",
+                "La tuberculose osseuse a très peu de complications",
+                "Lors d’une pleurésie tuberculeuse, le liquide recueilli lors de la ponction pleurale est trouble et à prédominance de PNN"
+            ],
+            "answer": [
+                0
+            ]
         }
     ]
 }
