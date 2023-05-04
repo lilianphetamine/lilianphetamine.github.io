@@ -40,6 +40,154 @@
             "answer": [
                 1
             ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Parmi les propositions suivantes, quels sont les vaccins vivants atténués ?",
+            "options": [
+                "ROR",
+                "Grippe injectable",
+                "Tétanos",
+                "Rotavirus",
+		"BCG",
+		"Leptospirose",
+		"Fièvre jaune"
+            ],
+            "answer": [
+                0,
+		3,
+		4,
+		6
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des vaccins :",
+            "options": [
+                "Les vaccins vivants atténués nécessitent souvent des rappels",
+                "Les vaccins inertes induisent une protection plus rapide et plus prolongée que les vaccins vivants atténués",
+                "A propos des polysaccharides, seuls les vaccins conjugués permettent d'éliminer le portage",
+                "Une présence d'adjuvants est requise de manière quasi-constante pour les vaccins inertes",
+		"La voie intramusculaire est généralement plus efficace que la voie sous-cutanée",
+		"La voie sous-cutanée est parfois privilégiée du fait de la grande densité en cellules présentatrices d'antigène"
+            ],
+            "answer": [
+                2,
+		3,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Tous les vaccins s'administrent par voie sous-cutanée ou intramusculaire",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "La vaccination est un acte médical",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "single_choice",
+            "question": "A présent, il y a 14 vaccins obligatoires",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Pour les enfants nés depuis le 1er janvier 2018, huit vaccins, auparavant recommandés, sont devenus obligatoires",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du schéma vaccinal DTP :",
+            "options": [
+                "Il comporte deux doses puis trois rappels chez l'adulte",
+                "Le schéma classique chez l'enfant/l'adolescent est : M2, M4, M11, 6ans, 11/13ans",
+                "Le schéma classique chez l'enfant/l'adolescent est : M3, M5, M12",
+                "Il peut être injecté en même temps que d'autres vaccins",
+		"La forme DTCaP-Hib-Hepatite B est appelée vaccin combiné hexavalent"
+            ],
+            "answer": [
+                1,
+		3,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le bon schéma de vaccination ROR chez l'enfant/l'adolescent ?",
+            "options": [
+                "M2, M4, M11, 6ans, 11/13ans",
+                "M2, M4, M11",
+		"M3, M5, M12",
+		"M5, M12",
+		"M12, M16/18"
+            ],
+            "answer": 4
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le bon schéma de vaccination Méningocoque C chez l'enfant/l'adolescent ?",
+            "options": [
+                "M2, M4, M11, 6ans, 11/13ans",
+                "M2, M4, M11",
+		"M3, M5, M12",
+		"M5, M12",
+		"M12, M16/18"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le bon schéma de vaccination Méningocoque B chez l'enfant/l'adolescent ?",
+            "options": [
+                "M2, M4, M11, 6ans, 11/13ans",
+                "M2, M4, M11",
+		"M3, M5, M12",
+		"M5, M12",
+		"M12, M16/18"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le bon schéma de vaccination Diphtérie/Tétanos/Poliomyélite chez l'enfant/l'adolescent ?",
+            "options": [
+                "M2, M4, M11, 6ans, 11/13ans",
+                "M2, M4, M11",
+		"M3, M5, M12",
+		"M5, M12",
+		"M12, M16/18"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le bon schéma de vaccination Haemophilus influenzae b (Hib) chez l'enfant/l'adolescent ?",
+            "options": [
+                "M2, M4, M11, 6ans, 11/13ans",
+                "M2, M4, M11",
+		"M3, M5, M12",
+		"M5, M12",
+		"M12, M16/18"
+            ],
+            "answer": 1
         }
     ]
 }
