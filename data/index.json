@@ -1,6 +1,7 @@
 {
     "items": [
 	{ "title": "Vaccinations (Item146)", "file": "Item146_Vaccinations" },
+	{ "title": "DP n°1 Infections naso-sinusiennes (Item148)", "file": "Item148_DP1_Infections_naso_sinusiennes" },
         { "title": "Angines (Item149)", "file": "Item149_Angines" },
         { "title": "Méningites (Item151)", "file": "Item151_Meningites" },
 	{ "title": "Endocardites (Item152)", "file": "Item152_Endocardites" },
