@@ -52,6 +52,18 @@
             "answer": 4
         },
         {
+            "type": "single_choice",
+            "question": "Quelle toxicité principale peut provoquer l'utilisation de Pyrazinamide ?",
+            "options": [
+                "Neuropathie périphérique",
+                "Anémie hémolytique",
+                "Asthénie sévère",
+                "Hyperuricémie",
+                "Névrite optique"
+            ],
+            "answer": 3
+        },
+        {
             "type": "multiple_choice",
             "question": "Dans quelles situations débute-t-on un traitement dans le cadre d'une infection tuberculeuse latente ?",
             "options": [
