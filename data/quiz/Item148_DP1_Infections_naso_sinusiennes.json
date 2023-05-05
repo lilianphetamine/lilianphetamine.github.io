@@ -40,8 +40,19 @@
                 3,
 		5
             ]
+        },
+        {
+            "type": "single_choice",
+            "question": "72H plus tard, Timothée revient avec sa maman car sa rhinopharyngite n'est toujours pas passée... Il continue à être fièvreux et douloureux. Il tousse, éternue et présente encore une obstruction nasale. Quand vous demandez à Timothée où et quand est-ce qu'il a mal, il vous explique qu'à présent la douleur est plutôt unilatérale "sous ses yeux" et s'intensifie lorsqu'il se penche en avant. De plus, sa maman rajoute qu'il se mouche plus souvent et que la purulence de la rhinorrhée a augmenté. Quel diagnostic évoquez-vous ?",
+            "options": [
+                "Angine érythémato-pultacée",
+                "Toujours une rhynopharyngite virale",
+                "Sinusite maxillaire aiguë bactérienne",
+                "Sinusite frontale bactérienne",
+		"Pneumonie aigue communautaire"
+            ],
+            "answer": 2
         }
-
 
     ]
 }
