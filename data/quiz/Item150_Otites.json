@@ -1,0 +1,66 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Les otites moyennes aiguës (OMA) font partie des infections les plus fréquentes, en particulier chez...",
+            "options": [
+                "Le sujet âgé >65 ans",
+                "L'enfant de moins de 3 ans",
+                "L'adolescent et l'adulte jeune",
+		"La femme enceinte",
+		"L'enfant entre 3 ans et 15 ans"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des otalgies :",
+            "options": [
+                "Il existe deux types d'otalgies",
+                "L'otalgie par atteinte primitive de l'oreille est plus fréquente chez l'enfant",
+                "L'otalgie projetée par atteinte extra-auriculaire est plus fréquente chez l'adulte",
+                "L'otalgie projetée survient au cours d'une otite moyenne aiguë purulente",
+		"L'otalgie par atteinte primitive de l'oreille survient au cours des tumeurs du rhinopharynx"
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Le rhinopharynx et l'oreille interne sont tapissés par la même muqueuse respiratoire ciliée",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "En cas de rhinopharyngite, l'infection virale touche aussi la muqueuse de l'oreille moyenne",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les principales bactéries responsables des OMA purulentes de l'adulte et de l'enfant de plus de 3 mois sont :",
+            "options": [
+                "Streptococcus pneumoniae",
+                "Streptococcus pyogenes",
+                "Listeria Monocytogenes",
+                "Haemophilus influenzae",
+		"EBV",
+		"Myxovirus influenzae"
+            ],
+            "answer": [
+                0,
+                3
+            ]
+        }
+    ]
+}
