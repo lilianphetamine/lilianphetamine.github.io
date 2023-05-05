@@ -100,7 +100,7 @@
         },
         {
             "type": "single_choice",
-            "question": "Vous avez vraiment pas de bol et Timothée revient 48H plus tard en raison de l'échec du traitement par amoxicilline, quel antibiotique instaurez-vous à présent pour aider enfin Timothée à guérir et qu'il ne revienne plus...?",
+            "question": "Vous n'avez vraiment pas de chance et Timothée revient 48H plus tard en raison de l'échec du traitement par amoxicilline, quel antibiotique instaurez-vous à présent pour aider enfin Timothée à guérir et qu'il ne revienne plus...?",
             "options": [
                 "Amoxicilline PO 7 jours",
                 "Amoxocilline-Acide Clavulanique PO 7 jours",
