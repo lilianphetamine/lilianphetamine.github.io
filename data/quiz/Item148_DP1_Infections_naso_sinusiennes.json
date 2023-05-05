@@ -2,7 +2,7 @@
     "questions": [
         {
             "type": "single_choice",
-            "question": "Timothée arrive à votre cabinet médical car sa maman s'inquiète... En effet, depuis hier son fils présente une rhinorrhée claire puis purulente bilatérale, accompagnée d'une obstruction nasale, de fièvre à 38,7°C et d'un oeil rouge et douloureux. A l'examen clinique, vous retrouvez une gorge et amygdales érythémateuses. Il présente également une toux depuis le début de votre entretien. Quel est le diiagnostic principale que vous évoquez ?",
+            "question": "Timothée arrive à votre cabinet médical car sa maman s'inquiète... En effet, depuis hier son fils présente une rhinorrhée claire puis purulente bilatérale, accompagnée d'une obstruction nasale, de fièvre à 38,7°C et d'un oeil rouge et douloureux. A l'examen clinique, vous retrouvez une gorge et amygdales érythémateuses. Il présente également une toux depuis le début de votre entretien. Quel est le diagnostic principal que vous évoquez ?",
             "options": [
                 "Angine érythémateuse",
                 "Sinusite maxillaire",
@@ -11,6 +11,17 @@
 		"Rhinopharyngite virale"
             ],
             "answer": 4
+        },
+	{
+            "type": "single_choice",
+            "question": "Vous suspectez effectivement une rhynopharingite. Quel élément vous a permis d'éliminer une potentielle angine ?",
+            "options": [
+                "La fièvre modérée",
+                "La toux associée",
+                "L'oeil rouge et douloureux",
+                "L'atteinte pharyngée (gorge et amygdales érythémateuses)"
+            ],
+            "answer": 3
         }
 
 
