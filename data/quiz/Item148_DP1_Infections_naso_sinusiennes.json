@@ -19,13 +19,13 @@
                 "La fièvre modérée",
                 "La toux associée",
                 "L'oeil rouge et douloureux",
-                "L'atteinte pharyngée (gorge et amygdales érythémateuses)"
+                "La rhinite associée"
             ],
             "answer": 3
         },
         {
             "type": "multiple_choice",
-            "question": "Effectivement, l'atteinte n'étant pas uniquement localisée aux amygdales, vous avez pu éliminer l'angine. Quel(s) traitement(s) instaurez-vous chez Timothée ?",
+            "question": "Effectivement, l'atteinte n'étant pas uniquement localisée aux amygdales et/ou à l'oropharynx, vous avez pu éliminer l'angine. Quel(s) traitement(s) instaurez-vous chez Timothée ?",
             "options": [
                 "Amoxicilline PO 7 jours",
                 "C3G orales",
