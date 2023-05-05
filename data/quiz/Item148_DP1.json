@@ -1,0 +1,113 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Timothée arrive à votre cabinet médical car sa maman s'inquiète... En effet, depuis hier son fils présente une rhinorrhée claire puis purulente bilatérale, accompagnée d'une obstruction nasale, de fièvre à 38,7°C et d'un oeil rouge et douloureux. A l'examen clinique, vous retrouvez une gorge et amygdales érythémateuses. Il présente également une toux depuis le début de votre entretien. Quel est le diiagnostic principale que vous évoquez ?",
+            "options": [
+                "Angine érythémateuse",
+                "Sinusite maxillaire",
+		"Grippe",
+		"Coqueluche",
+		"Rhinopharyngite virale"
+            ],
+            "answer": 4
+        },    
+	{
+            "type": "single_choice",
+            "question": "Vous suspectez effectivement une rhynopharingite. Quel élément vous a permis d'éliminer une potentielle angine ?",
+            "options": [
+                "La fièvre modérée",
+                "La toux associée",
+                "L'oeil rouge et douloureux",
+                "L'atteinte pharyngée (gorge et amygdales érythémateuses)"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Effectivement, l'atteinte n'étant pas uniquement localisée aux amygdales, vous avez pu éliminer l'angine. Quel(s) traitement(s) instaurez-vous chez Timothée ?",
+            "options": [
+                "Amoxicilline PO 7 jours",
+                "C3G orales",
+                "Antalgiques/antipyrétiques (paracétamol)",
+                "Lavage des fosses nasales",
+		"AINS",
+		"Une bonne hydratation",
+		"Traitements vasoconstricteurs"
+            ],
+            "answer": [
+                2,
+                3,
+		5
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "72H plus tard, Timothée revient avec sa maman car sa rhinopharyngite n'est toujours pas passée... Il continue à être fièvreux et douloureux. Il tousse, éternue et présente encore une obstruction nasale. Quand vous demandez à Timothée où et quand est-ce qu'il a mal, il vous explique qu'à présent la douleur est plutôt unilatérale "sous ses yeux" et s'intensifie lorsqu'il se penche en avant. De plus, sa maman rajoute qu'il se mouche plus souvent et que la purulence de la rhinorrhée a augmenté. Quel diagnostic évoquez-vous ?",
+            "options": [
+                "Angine érythémato-pultacée",
+                "Toujours une rhynopharyngite virale",
+                "Sinusite maxillaire aiguë bactérienne",
+                "Sinusite frontale bactérienne",
+		"Pneumonie aigue communautaire"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Il s'agit effectivement d'une sinusite maxillaire aiguë bactérienne. Quel(s) élément(s) correspondant à des critères majeurs vous ont orienté vers le diagnostic de sinusite maxillaire aiguë bactérienne ?",
+            "options": [
+                "La douleur de caractère unilatéral",
+                "La persistance de la fièvre",
+                "L'obstruction nasale toujours présente",
+                "L'intensification de la douleur tête penchée en avant",
+		"La douleur pharyngée persistante",
+		"L'augmentation de la rhinorrhée et l'augmentation de la purulence de celle-ci"
+            ],
+            "answer": [
+                0,
+                3,
+		5
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quelle est la conduite à tenir devant la sinusite maxillaire de Timothée ? (une ou plusieurs réponses vraie(s))",
+            "options": [
+                "Scanner d'emblée pour confirmer le diagnostic",
+                "Prélèvements biologiques par l'ORL au niveau du méat moyen, sous contrôle endoscopiquue",
+                "Instauration de corticoïdes par voie nasale",
+                "Traitement uniquement symptomatique",
+		"Aucun examen d'imagerie n'est recommandé",
+		"Instauration d'une antibiothérapie"
+            ],
+            "answer": [
+                5
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel antibiotique donnez-vous à Timothée ?",
+            "options": [
+                "Amoxicilline PO 7 jours",
+                "Amoxocilline-Acide Clavulanique PO 7 jours",
+                "Pristinamycine PO 4 jours",
+                "Cefpodoxime-proxétil PO 5 jours",
+		"Céfuroxime-axétil PO 5 jours"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "single_choice",
+            "question": "Vous avez vraiment pas de bol et Timothée revient 48H plus tard en raison de l'échec du traitement par amoxicilline, quel antibiotique instaurez-vous à présent pour aider enfin Timothée à guérir et qu'il ne revienne plus...?",
+            "options": [
+                "Amoxicilline PO 7 jours",
+                "Amoxocilline-Acide Clavulanique PO 7 jours",
+                "Pristinamycine PO 4 jours",
+                "Cefpodoxime-proxétil PO 5 jours",
+		"Céfuroxime-axétil PO 5 jours"
+            ],
+            "answer": 1
+        }
+    ]
+}
