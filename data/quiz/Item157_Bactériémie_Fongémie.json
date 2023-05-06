@@ -1,0 +1,81 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Lors du diagnostic de Bactériémie/Fongémie (hémocultures), chaque flacon contient...",
+            "options": [
+                "5mL",
+                "10mL",
+                "15mL",
+		"20mL"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Le diagnostic de Bactériémie/Fongémie repose sur la réalisation de ...",
+            "options": [
+                "2 à 3 hémocultures (soit 4 à 6 flacons)",
+                "3 à 4 hémocultures (soit 5 à 7 flacons)",
+                "4 à 5 hémocultures (soit 6 à 8 flacons)"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Dans quelles circonstances les hémocultures doivent être réalisées même en l'absence de fièvre...",
+            "options": [
+                "Si entorse de la cheville droite",
+                "Si suspicion d'OAP",
+                "Si suspicion d'endocardite ",
+                "Si immunodépression",
+		"Si grossesse / femme enceinte",
+		"Si corticothérapie",
+		"Si sujet jeune",
+		"Si sujet âgé ",
+		"Si traitement antipyrétique"
+            ],
+            "answer": [
+                2,
+                3,
+                5,
+		7,
+		8
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Quels sont les critères appartenant au qSOFA ?",
+            "options": [
+                "Fréquence Cardiaque ⩾ 120 BPM",
+                "Fréquence respiratoire ⩾ 22/min",
+                "Pression artérielle systolique ⩽ 100 mmHg",
+                "Glasgow ⩽ 11",
+		"Confusion (altération aigue des fonctions neurologiques supérieures)"
+            ],
+            "answer": [
+                1,
+                2,
+		4
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les agents infectieux à Cocci Gram + en chainettes sont...",
+            "options": [
+                "Streptocoque groupe A",
+                "Staphylococcus Aureus",
+                "Streptococcus gallolyticus",
+                "Escherichia Coli",
+		"Pneumocoque",
+		"Listeria",
+		"Candida albicans"
+            ],
+            "answer": [
+                0,
+                2,
+		4
+            ]
+        }
+    ]
+}
