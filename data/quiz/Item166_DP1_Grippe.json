@@ -1,0 +1,50 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "Madame M., 65 ans, vient vous voir à votre cabinet de médecine générale le 12 janvier pour un état fébrile d’apparition brutale accompagné d’une toux sèche et de rhinorrhée. Madame M. est retraitée mais bénévole en école primaire où beaucoup d’enfants étaient absents cette semaine car ils toussaient. Elle a une intoxication tabagique estimée à 20 paquets/année et n’a pas fait de vaccin récemment mise à part le dTPolio. Elle a une allergie avérée aux oeufs. Madame M. est également diabétique mais sous traitement efficace. Quels indices vous permettent d’évoquer une grippe ?",
+            "options": [
+                "La période de l’année",
+                "Le sexe féminin",
+                "L’apparition brutale de l’état fébrile",
+                "Le fait qu’elle était en contact avec des enfants qui toussaient",
+		"L’intoxication tabagique"
+            ],
+            "answer": [
+                0,
+                2,
+		3
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Vous prenez les constantes de madame M. : température 39,6°C mais bien tolérée, saturation en air ambiant à 98%, tension 118-87 mmHg, rythme cardiaque 100 bpm. Que prescrivez vous à Madame M. dans l’immédiat ?",
+            "options": [
+                "Une radiographie pulmonaire",
+                "Du repos et une bonne hydratation",
+                "Amoxicilline-Acide clavulanique pendant 7 jours",
+                "D’arrêter de travailler pendant sa convalescence",
+		"Un dosage de la CRP",
+		"Paracétamol uniquement si elle a du mal à supporter la fièvre",
+		"Aspirine uniquement si elle a du mal à supporter la fièvre"
+            ],
+            "answer": [
+                1,
+                3,
+		5
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Vous évoquez avec madame M. le vaccin saisonnier contre la grippe mais un élément dans le dossier correspond à une contre-indication à cette vaccination. De quel élément s'agit-t-il ?",
+            "options": [
+                "Son âge",
+                "Son intoxication tabagique",
+                "Son diabète",
+                "Son allergie aux oeufs",
+		"Sa vaccination récente au dTPolio"
+            ],
+            "answer": 3
+        }
+    ]
+}
