@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "Vous êtes le médecin traitant de Mme D 29 ans, enceinte depuis 5 mois, qui vient vous voir pour une fièvre, asthénie, rhinorrhée et toux sèche. Vous suspectez une grippe. Quelles propositions sont justes ?",
+            "options": [
+                "La grippe semble être au stade d’invasion",
+                "Un test PCR sur écouvillon nasopharyngé est systématique en cas de suspicion de grippe",
+                "Dans ce cas un traitement symptomatique (arrêt de travail, repos, hydratation) est requis",
+                "Dans ce cas, un traitement curatif par Oseltamivir per os pendant 5 jours est indiqué",
+		"Le vaccin contre la grippe saisonnière est recommandé chez les femmes enceintes"
+            ],
+            "answer": [
+                2,
+                3,
+		4
+            ]
+        }
+    ]
+}

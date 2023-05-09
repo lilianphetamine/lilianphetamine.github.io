@@ -11,6 +11,7 @@
 	{ "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" },
 	{ "title": "Tétanos (Item160)", "file": "Item160_Tétanos" },
 	{ "title": "Infections urinaires (Item161-28)", "file": "Item161-28_Infections_urinaires" },
+	{ "title": "Grippe (Item166)", "file": "Item166_Grippe" },
 	{ "title": "DP n°1 Grippe (Item166)", "file": "Item166_DP1_Grippe" },
 	{ "title": "Traumatismes oculaires (Item335)", "file": "Item335_Traumatismes_oculaires" }
     ]
