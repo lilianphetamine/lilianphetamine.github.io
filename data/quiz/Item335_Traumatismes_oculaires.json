@@ -31,6 +31,22 @@
                 3,
                 4
             ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Concernant les traumatismes oculaires :",
+            "options": [
+                "Une plaie du cristallin est une indication à la chirurgie en urgence",
+                "Un scanner est indiqué devant toute suspicion de corps étranger intraoculaire (CEIO)",
+                "Une kératite superficielle fait suspecter la présence d’un CEIO",
+                "Une iridodialyse chez un nourrisson de moins de 1 an doit faire suspecter un syndrome du bébé secoué",
+		"Un hyphéma total avec hypertonie peut être responsable d’une infiltration hématique de la cornée irréversible et cécitante"
+            ],
+            "answer": [
+                0,
+                1,
+                4
+            ]
         }
     ]
 }
