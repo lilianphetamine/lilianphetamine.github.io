@@ -1,0 +1,122 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Michel, suivi pour rétinopathie diabétique depuis 15 ans, vient vous voir de toute urgence à votre cabinet ! Sa vue a brutalement baissé à son oeil gauche, sans douleur notable mais avec photopsies, il dit avoir un rideau ou un voile altérant son champ visuel et il présente une hémorragie intravitréenne qui masque la rétine... Quel diagnostic principal évoquez-vous ?",
+            "options": [
+                "Oedème maculaire",
+                "Décollement de la rétine par traction",
+                "Glaucome néovasculaire",
+		"Ischémie rétinienne",
+		"RD non proliférante"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les facteurs de risques non modifiables de rétinopathie diabétique sont :",
+            "options": [
+                "Âge",
+                "HTA",
+                "Tabac",
+                "Prédisposition génétique",
+		"Puberté",
+		"Protéinurie",
+		"Ancienneté du diabète"
+            ],
+            "answer": [
+                0,
+                3,
+                6
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les facteurs de risques modifiables de rétinopathie diabétique sont :",
+            "options": [
+                "Âge",
+                "HTA",
+                "Tabac",
+                "Prédisposition génétique",
+		"Puberté",
+		"Protéinurie",
+		"Dyslipidémie"
+            ],
+            "answer": [
+                1,
+                2,
+                5,
+		6
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels éléments au fond d'oeil orientent vers une rétinopathie diabétique ?",
+            "options": [
+                "Micro-anévrismes rétiniens",
+                "Nodules cotonneux",
+                "Hémorragies rétiniennes punctiformes",
+                "Hémorragies intra-rétiniennes en tâches",
+		"Hémorragies en flammèches",
+		"Dilatations veineuses irrégulières",
+		"Exsudats lipidiques"
+            ],
+            "answer": [
+                0,
+                2,
+                3,
+		5,
+		6
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la surveillance de la RD :",
+            "options": [
+                "1fois/an ou tous les deux ans si RD non proliférante modérée",
+                "Tous les 4 à 6 mois si RD non proliférante sévère",
+                "1fois/an ou tous les deux ans si RD non proliférante minime",
+                "2 à 4 mois après la PPR si RD pré-proliférante ou proliférante"
+            ],
+            "answer": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Dans la classification de la RD, l'oedème maculaire s'associe uniquement aux stades de RD proliférante et proliférante compliquée",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "La présence de micro-anévrismes, d'hémorragies punctiformes correspond à une RD non proliférante minime",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Le stade de RD non proliférante sévère peut correspondre à...",
+            "options": [
+                "Néovaisseaux pré-rétinien et/ou pré-papillaire",
+                "Hémorragies rétiniennes dans les 4 quadrants",
+                "AMIR dans 1 quadrant",
+                "Dilatations veineuses dans 2 quadrants",
+		"Hémorragie intravitréenne"
+            ],
+            "answer": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}
