@@ -1,20 +1,20 @@
 {
     "items": [
-	{ "title": "Oeil et sclérose en plaques (Item104)", "file": "Item104_Oeil_Sclérose_en_plaques" },
+	{ "title": "Oeil et sclérose en plaques (Item104)", "file": "Item104_Oeil_Sclerose_en_plaques" },
 	{ "title": "Vaccinations (Item146)", "file": "Item146_Vaccinations" },
 	{ "title": "DP n°1 Infections naso-sinusiennes (Item148)", "file": "Item148_DP1_Infections_naso_sinusiennes" },
         { "title": "Angines (Item149)", "file": "Item149_Angines" },
 	{ "title": "Otites infectieuses (Item150)", "file": "Item150_Otites" },
         { "title": "Méningites (Item151)", "file": "Item151_Meningites" },
 	{ "title": "Endocardites (Item152)", "file": "Item152_Endocardites" },
-	{ "title": "Bactériémie-Fongémie (Item157)", "file": "Item157_Bactériémie_Fongémie" },
+	{ "title": "Bactériémie-Fongémie (Item157)", "file": "Item157_Bacteriemie_Fongemie" },
 	{ "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" },
-	{ "title": "Tétanos (Item160)", "file": "Item160_Tétanos" },
+	{ "title": "Tétanos (Item160)", "file": "Item160_Tetanos" },
 	{ "title": "Infections urinaires (Item161-28)", "file": "Item161-28_Infections_urinaires" },
 	{ "title": "Grippe (Item166)", "file": "Item166_Grippe" },
 	{ "title": "DP n°1 Grippe (Item166)", "file": "Item166_DP1_Grippe" },
-	{ "title": "Rétinopathie Diabétique (Item247)", "file": "Item247_Rétinopathie_diabétique" },
+	{ "title": "Rétinopathie Diabétique (Item247)", "file": "Item247_Retinopathie_diabetique" },
 	{ "title": "Traumatismes oculaires (Item335)", "file": "Item335_Traumatismes_oculaires" },
-	{ "title": "Brûlures oculaires (Item335b)", "file": "Item335b_Brûlures_oculaires" }
+	{ "title": "Brûlures oculaires (Item335b)", "file": "Item335b_Brulures_oculaires" }
     ]
 }
