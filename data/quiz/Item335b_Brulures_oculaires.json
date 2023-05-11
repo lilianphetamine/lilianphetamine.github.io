@@ -5,10 +5,10 @@
             "question": "À propos des brûlures oculaires :",
             "options": [
                 "L’acide sulfurique ou vitriol est responsable des brûlures oculaires par acide les plus graves",
-                "Les brûlures basiques ne peuvent pas entraîner une destruction totale du globe oculaire",
-                "Le stade 3 de la classification de Roper Hall correspond à une perte totale de l’épithélium cornéen et des détails iriens non visibles, et à une ischémie limbique > 50%",
+                { "choice": "Les brûlures basiques ne peuvent pas entraîner une destruction totale du globe oculaire", "explanation": "Elles sont plus graves que les brûlures par acide" },
+                { "choice": "Le stade 3 de la classification de Roper Hall correspond à une perte totale de l’épithélium cornéen et des détails iriens non visibles, et à une ischémie limbique > 50%", "explanation": "C’est une ischémie limbique entre 33 et 50%. Le reste est juste" },
                 "Pour le lavage oculaire, l’utilisation de solutions iso- ou hyper-toniques est préférable à l’eau",
-		"Une brûlure oculaire par exposition à des rayons UV est possible, avec apparition 12h après l’exposition de douleurs et blépharospasmes"
+		{ "choice": "Une brûlure oculaire par exposition à des rayons UV est possible, avec apparition 12h après l’exposition de douleurs et blépharospasmes", "explanation": "Également d’un larmoiement et d’une photophobie" }
             ],
             "answer": [
                 0,
