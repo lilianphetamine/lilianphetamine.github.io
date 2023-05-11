@@ -4,10 +4,10 @@
             "type": "multiple_choice",
             "question": "Vous êtes le médecin traitant de Mme D 29 ans, enceinte depuis 5 mois, qui vient vous voir pour une fièvre, asthénie, rhinorrhée et toux sèche. Vous suspectez une grippe. Quelles propositions sont justes ?",
             "options": [
-                "La grippe semble être au stade d’invasion",
-                "Un test PCR sur écouvillon nasopharyngé est systématique en cas de suspicion de grippe",
-                "Dans ce cas un traitement symptomatique (arrêt de travail, repos, hydratation) est requis",
-                "Dans ce cas, un traitement curatif par Oseltamivir per os pendant 5 jours est indiqué",
+               { "choice": "La grippe semble être au stade d’invasion", "explanation": "Plutôt stade état (rhinorrée, toux)" },
+               { "choice": "Un test PCR sur écouvillon nasopharyngé est systématique en cas de suspicion de grippe", "explanation": "Indications du prélèvement et PCR en cas de grippe : visée étiologique chez patient hospitalisé avec complication ; visée épidémiologique (réseau sentinelle)" },
+               { "choice": "Dans ce cas un traitement symptomatique (arrêt de travail, repos, hydratation) est requis", "explanation": "Systématique" },
+               { "choice": "Dans ce cas, un traitement curatif par Oseltamivir per os pendant 5 jours est indiqué", "explanation": "Vrai car femme enceinte, considérée comme à risque de complication" },
 		"Le vaccin contre la grippe saisonnière est recommandé chez les femmes enceintes"
             ],
             "answer": [
