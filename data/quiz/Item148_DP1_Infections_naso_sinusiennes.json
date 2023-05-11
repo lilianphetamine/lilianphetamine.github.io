@@ -4,8 +4,8 @@
             "type": "single_choice",
             "question": "Timothée arrive à votre cabinet médical car sa maman s'inquiète... En effet, depuis hier son fils présente une rhinorrhée claire puis purulente bilatérale, accompagnée d'une obstruction nasale, de fièvre à 38,7°C et d'un oeil rouge et douloureux. A l'examen clinique, vous retrouvez une gorge et amygdales érythémateuses. Il présente également une toux depuis le début de votre entretien. Quel est le diagnostic principal que vous évoquez ?",
             "options": [
-                "Angine érythémateuse",
-                "Sinusite maxillaire",
+                { "choice": "Angine érythémateuse", "explanation": "Pas de rhinite lors de l'angine !" },
+                { "choice": "Sinusite maxillaire", "explanation": "Plutôt unilatérale..." },
                 "Grippe",
 		"Coqueluche",
 		"Rhinopharyngite virale"
@@ -19,7 +19,7 @@
                 "La fièvre modérée",
                 "La toux associée",
                 "L'oeil rouge et douloureux",
-                "La rhinite associée"
+                { "choice": "La rhinite associée", "explanation": "En effet, pas de rhinite associée lors d'une angine !" }
             ],
             "answer": 3
         },
@@ -27,11 +27,11 @@
             "type": "multiple_choice",
             "question": "Effectivement, l'atteinte n'étant pas uniquement localisée aux amygdales et/ou à l'oropharynx, vous avez pu éliminer l'angine. Quel(s) traitement(s) instaurez-vous chez Timothée ?",
             "options": [
-                "Amoxicilline PO 7 jours",
+                { "choice": "Amoxicilline PO 7 jours", "explanation": "Pas d'antibiotiques !! Il s'agit d'une atteinte virale ici !" },
                 "C3G orales",
                 "Antalgiques/antipyrétiques (paracétamol)",
                 "Lavage des fosses nasales",
-		"AINS",
+		{ "choice": "AINS", "explanation": "AINS contre-indiqués !" },
 		"Une bonne hydratation",
 		"Traitements vasoconstricteurs"
             ],
@@ -58,7 +58,7 @@
             "question": "Il s'agit effectivement d'une sinusite maxillaire aiguë bactérienne. Quel(s) élément(s) correspondant à des critères majeurs vous ont orienté vers le diagnostic de sinusite maxillaire aiguë bactérienne ?",
             "options": [
                 "La douleur de caractère unilatéral",
-                "La persistance de la fièvre",
+                { "choice": "La persistance de la fièvre", "explanation": "Il s'agit d'un critère mineur !" },
                 "L'obstruction nasale toujours présente",
                 "L'intensification de la douleur tête penchée en avant",
 		"La douleur pharyngée persistante",
@@ -74,10 +74,10 @@
             "type": "multiple_choice",
             "question": "Quelle est la conduite à tenir devant la sinusite maxillaire de Timothée ? (une ou plusieurs réponses vraie(s))",
             "options": [
-                "Scanner d'emblée pour confirmer le diagnostic",
+                { "choice": "Scanner d'emblée pour confirmer le diagnostic", "explanation": "Plutôt pour les sinusites frontales, ethmoidales et sphénoidales !" },
                 "Prélèvements biologiques par l'ORL au niveau du méat moyen, sous contrôle endoscopiquue",
                 "Instauration de corticoïdes par voie nasale",
-                "Traitement uniquement symptomatique",
+                { "choice": "Traitement uniquement symptomatique", "explanation": "Plus maintenant... car il s'agit d'une atteinte désormais bactérienne" },
 		"Aucun examen d'imagerie n'est recommandé",
 		"Instauration d'une antibiothérapie"
             ],
@@ -103,7 +103,7 @@
             "question": "Vous n'avez vraiment pas de chance et Timothée revient 48H plus tard en raison de l'échec du traitement par amoxicilline, quel antibiotique instaurez-vous à présent pour aider enfin Timothée à guérir et qu'il ne revienne plus...?",
             "options": [
                 "Amoxicilline PO 7 jours",
-                "Amoxocilline-Acide Clavulanique PO 7 jours",
+                { "choice": "Amoxocilline-Acide Clavulanique PO 7 jours", "explanation": "Deuxième choix si échec de l'amoxicilline" },
                 "Pristinamycine PO 4 jours",
                 "Cefpodoxime-proxétil PO 5 jours",
 		"Céfuroxime-axétil PO 5 jours"
