@@ -4,9 +4,9 @@
             "type": "multiple_choice",
             "question": "A propos des contusions de globe :",
             "options": [
-                "Une érosion superficielle de la conjonctive est mise en évidence à la fluorescéine",
+                { "choice": "Une érosion superficielle de la conjonctive est mise en évidence à la fluorescéine", "explanation": "C’est une érosion de la cornée qui est mise en évidence à la fluorescéine !!" },
                 "Une contusion du globe est un traumatisme à globe fermé",
-                "Une rupture de la choroïde peut faire évoquer un syndrome du bébé secoué",
+		{ "choice": "Une rupture de la choroïde peut faire évoquer un syndrome du bébé secoué", "explanation": "C’est l’hémorragie rétinienne qui fait évoquer le syndrome du bébé secoué" },
                 "La résorption d’un hyphéma est spontanée si son origine est antérieure",
 		"En cas d’hémorragie importante de la conjonctive, on recherchera une plaie sclérale sous jacente ou un corps étranger intraoculaire au bloc opératoire"
             ],
@@ -21,8 +21,8 @@
             "question": "A propos des traumatismes à globe ouvert :",
             "options": [
                 "Les ruptures du globe oculaire ont lieu sur les zones de moindre résistance, comme la limbe scléro-cornéenne",
-                "Un traumatisme perforant donnera forcément des plaies de mauvais pronostic",
-                "Une rupture du globe oculaire peut être révélée par une hypertonie",
+                { "choice": "Un traumatisme perforant donnera forcément des plaies de mauvais pronostic", "explanation": "On retrouve aussi des plaies de meilleur pronostic" },
+                { "choice": "Une rupture du globe oculaire peut être révélée par une hypertonie", "explanation": "Hypotonie !!!!" },
                 "Un traumatisme perforant peut se compliquer d’une atrophie du globe oculaire, donnant une cécité complète définitive",
 		"Une rupture du globe oculaire peut être révélée par une hémorragie intravitréenne"
             ],
@@ -36,11 +36,11 @@
             "type": "multiple_choice",
             "question": "Concernant les traumatismes oculaires :",
             "options": [
-                "Une plaie du cristallin est une indication à la chirurgie en urgence",
-                "Un scanner est indiqué devant toute suspicion de corps étranger intraoculaire (CEIO)",
-                "Une kératite superficielle fait suspecter la présence d’un CEIO",
-                "Une iridodialyse chez un nourrisson de moins de 1 an doit faire suspecter un syndrome du bébé secoué",
-		"Un hyphéma total avec hypertonie peut être responsable d’une infiltration hématique de la cornée irréversible et cécitante"
+                { "choice": "Une plaie du cristallin est une indication à la chirurgie en urgence", "explanation": "Pour enlever le cristallin afin d’éviter une inflammation ou une hypertonie intraoculaire" },
+                { "choice": "Un scanner est indiqué devant toute suspicion de corps étranger intraoculaire (CEIO)", "explanation": "Pour vérifier sa présence et le localiser. L’IRM est contre-indiquée à cause du risque d’aimantation" },
+                { "choice": "Une kératite superficielle fait suspecter la présence d’un CEIO", "explanation": "Elle fait suspecter un corps étranger superficiel, de même qu’une conjonctivite. Une porte d’entrée sclérale ou cornéenne ou une un trajet visible cristallinien et/ou irien font suspecter un CEIO" },
+                { "choice": "Une iridodialyse chez un nourrisson de moins de 1 an doit faire suspecter un syndrome du bébé secoué", "explanation": "Une iridodialyse est une désinsertion de la base de l’iris. Des hémorragies bilatérales rétiniennes chez un nourrisson de moins de 1 an doivent faire suspecter un syndrome du bébé secoué" },
+		{ "choice": "Un hyphéma total avec hypertonie peut être responsable d’une infiltration hématique de la cornée irréversible et cécitante", "explanation": "Un lavage chirurgical de la chambre antérieure doit alors être tenté" }
             ],
             "answer": [
                 0,
