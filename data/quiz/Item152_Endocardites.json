@@ -21,7 +21,7 @@
 		"Le volume optimal est de 20 à 40mL",
 		"4 prélèvements sur 24H",
 		"3 prélèvements sur 24H",
-		"Les prélèvements sont espacés d'au moins 3 heures"
+		{ "choice": "Les prélèvements sont espacés d'au moins 3 heures", "explanation": "Ils sont espacés d'au moins une heure" }
             ],
             "answer": [
                 0,
@@ -32,12 +32,12 @@
             "type": "multiple_choice",
             "question": "Quelles sont les cardiopathies à très haut risque d'EI ?",
             "options": [
-                "Prolapsus de valve mitrale",
+                { "choice": "Prolapsus de valve mitrale", "explanation": "A risque modéré d'EI..." },
                 "Antécédents d'EI",
-                "Insuffisance aortique/mitrale/rétrécissement aortique",
+                { "choice": "Insuffisance aortique/mitrale/rétrécissement aortique", "explanation": "A risque modéré d'EI..." },
                 "Cardiopathies congénitales cyanogènes avec shunt persistant",
 		"Prothèses valvulaires",
-		"Cardiomyopathie hypertrophique obstructive"
+		{ "choice": "Cardiomyopathie hypertrophique obstructive", "explanation": "A risque modéré d'EI..." }
             ],
             "answer": [
                 1,
@@ -79,11 +79,11 @@
             "question": "À propos des principales localisations emboliques... pour les EI du cœur gauche",
             "options": [
                 "Elles peuvent être cérébrales",
-                "Une toux peut être présente",
-                "Elles peuvent engendrer un infarctus pulmonaire",
+                { "choice": "Une toux peut être présente", "explanation": "Pour les EI du coeur droit..." },
+                { "choice": "Elles peuvent engendrer un infarctus pulmonaire", "explanation": "Pour les EI du coeur droit..." },
                 "La rate, les reins et le foie peuvent être touchés",
 		"Les coronaires peuvent être touchées",
-		"Le pénis peut être touché"
+		{ "choice": "Le pénis peut être touché", "explanation": "Petite blagounette..." }
             ],
             "answer": [
                 0,
@@ -95,11 +95,11 @@
             "type": "single_choice",
             "question": "Lors d'une EI, pourquoi l'éradication microbienne est difficile à obtenir ...",
             "options": [
-                "Le myocarde est faiblement vascularisé",
-                "La fibrine protège les virus de la phagocytose",
-                "L'inoculum est faible",
-                "Les bactéries sont en phase de croissance rapide",
-		"La bactériémie est transitoire",
+                { "choice": "Le myocarde est faiblement vascularisé", "explanation": "Il s'agit de l'endocarde" },
+                { "choice": "La fibrine protège les virus de la phagocytose", "explanation": "Protège les bactéries" },
+                { "choice": "L'inoculum est faible", "explanation": "L'inoculum est important !" },
+                { "choice": "Les bactéries sont en phase de croissance rapide", "explanation": "Phase de croissance lente" },
+		{ "choice": "La bactériémie est transitoire", "explanation": "Permanente" },
 		"Aucune des réponses"
             ],
             "answer": 5
