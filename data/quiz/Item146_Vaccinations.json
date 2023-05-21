@@ -82,7 +82,7 @@
             "question": "Tous les vaccins s'administrent par voie sous-cutanée ou intramusculaire",
             "options": [
                 "VRAI",
-                { "choice": "FAUX", "explanation": "Exxception : BCG par voie intradermique" }
+                { "choice": "FAUX", "explanation": "Exception : BCG par voie intradermique" }
             ],
             "answer": 1
         },
