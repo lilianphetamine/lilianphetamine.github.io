@@ -83,6 +83,23 @@
                 3,
 		5
             ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Parmi les infections bactériennes suivantes, lesquelles sont apyrétiques ?",
+            "options": [
+                { "choice": "Impétigo", "explanation": "Apyrexie" },
+                { "choice": "Folliculite", "explanation": "Apyrexie" },
+                { "choice": "Furoncle", "explanation": "Apyrexie sauf pour les formes non compliquées" },
+		{ "choice": "Furoncle profus", "explanation": "Fièvre présente" },
+		{ "choice": "Erysipèle", "explanation": "Fièvre +/- frissons" },
+		{ "choice": "Périonyxis", "explanation": "Infection fongique (on avait précisé bactérienne dans l’énoncé, oui c’est batard dsl)" }
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
         }
     ]
 }
