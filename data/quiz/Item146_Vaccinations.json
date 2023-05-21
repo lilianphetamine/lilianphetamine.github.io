@@ -82,7 +82,7 @@
             "question": "Tous les vaccins s'administrent par voie sous-cutanée ou intramusculaire",
             "options": [
                 "VRAI",
-                "FAUX"
+                { "choice": "FAUX", "explanation": "Exxception : BCG par voie intradermique" }
             ],
             "answer": 1
         },
@@ -100,7 +100,7 @@
             "question": "A présent, il y a 14 vaccins obligatoires",
             "options": [
                 "VRAI",
-                "FAUX"
+                { "choice": "FAUX", "explanation": "Il y en a 11 !" }
             ],
             "answer": 1
         },
