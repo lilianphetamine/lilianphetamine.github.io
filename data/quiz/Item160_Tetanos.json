@@ -4,11 +4,11 @@
             "type": "multiple_choice",
             "question": "A propos du tétanos :",
             "options": [
-                "C’est une toxi infection grave dont la létalité est de 25%",
+                { "choice": "C’est une toxi infection grave dont la létalité est de 25%", "explanation": "30%... désolé..." },
                 "C’est une maladie non immunisante et non contagieuse",
-                "La neurotoxine induit des spasmes musculaires prédominant au niveau des épaules",
-                "La prophylaxie pour une personne à jour dans ses vaccins ayant une plaie majeure ou susceptible d’avoir été contaminée par des germes telluriques est une dose de vaccin contenant la valence tétanique",
-		"La prophylaxie pour une personne non à jour dans ses vaccins pour une blessure mineure, propre est une administration d’Ig tétaniques humaines 250 UI"
+                { "choice": "La neurotoxine induit des spasmes musculaires prédominant au niveau des épaules", "explanation": "Prédominants au niveau de la machoire..." },
+                { "choice": "La prophylaxie pour une personne à jour dans ses vaccins ayant une plaie majeure ou susceptible d’avoir été contaminée par des germes telluriques est une dose de vaccin contenant la valence tétanique", "explanation": "Pas d’injection pour les personnes à jour, seulement préciser la date du prochain rappel" },
+		{ "choice": "La prophylaxie pour une personne non à jour dans ses vaccins pour une blessure mineure propre est une administration d’Ig tétaniques humaines 250 UI", "explanation": "Pour une blessure mineure uniquement administration immédiate d’une dose de vaccin contenant la valence tétanique" }
             ],
             "answer": [
                 1
