@@ -7,6 +7,7 @@
 	{ "title": "Otites infectieuses (Item150)", "file": "Item150_Otites" },
         { "title": "Méningites (Item151)", "file": "Item151_Meningites" },
 	{ "title": "Endocardites (Item152)", "file": "Item152_Endocardites" },
+	{ "title": "Infections cutanéo-muqueuses (Item155)", "file": "Item155_Infections_cutaneo_muqueuses" },
 	{ "title": "Bactériémie-Fongémie (Item157)", "file": "Item157_Bacteriemie_Fongemie" },
 	{ "title": "Tuberculose (Item159)", "file": "Item159_Tuberculose" },
 	{ "title": "Tétanos (Item160)", "file": "Item160_Tetanos" },

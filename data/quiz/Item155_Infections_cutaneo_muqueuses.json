@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l'impétigo :",
+            "options": [
+                "L’impétigo est une maladie non immunisante, des récidives sont donc possibles",
+                { "choice": "Il est caractérisé par des lésions papuleuses érythémateuses", "explanation": "Vésico-bulle, sur peau inflammatoire, se rompant rapidement pour laisser la place à une érosion suintante puis croûteuse, volontiers jaunâtre" },
+		{ "choice": "A l’instar de l’ecthyma, il guérit sans laisser de cicatrice", "explanation": "L’impétigo guérit sans laisser de cicatrice et au contraire, l’écthyma laisse une cicatrice !!" },
+		{ "choice": "Il a une étiologie staphylococcique le plus souvent", "explanation": "Staphylocoque 70% et Streptocoques 30%" },
+		{ "choice": "C’est l’infection cutanée fongique la plus fréquente chez l’enfant", "explanation": "Bactérienne !!! Le reste de l’item est juste" }
+            ],
+            "answer": [
+                0,
+                3
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du furoncle :",
+            "options": [
+                { "choice": "Il comporte une zone nécrotique en son centre : le tourbillon", "explanation": "C’est le bourbillon…" },
+                "C’est une folliculite profonde et nécrosante de l’ensemble du follicule pilo-sébacé",
+                { "choice": "Il est toujours traité par antibiothérapie", "explanation": "Pas d’antibiothérapie si furoncle isolé" },
+                "Il laisse une cicatrice séquellaire",
+		"Un anthrax est un conglomérat de plusieurs furoncles"
+            ],
+            "answer": [
+                1,
+                3,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l'érysipèle :",
+            "options": [
+                { "choice": "On le retrouve le plus souvent sur les membres inférieurs", "explanation": "Membres inférieurs 90% et visage 5-10%" },
+                "La porte d’entrée est à rechercher systématiquement",
+                "On retrouve un décollement bulleux à contenu citrin et un purpura localisé",
+                "L’antibiothérapie consiste en de l’amoxicilline per os durant 7 jours",
+		"On retrouve fréquemment du pus en cas de dermo-hypodermite à S. aureus"
+            ],
+            "answer": [
+                0,
+                1,
+		2,
+		3,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la dermohypodermite bactérienne aiguë nécrosante et fasciite nécrosante :",
+            "options": [
+                { "choice": "La nécrose évolue de la superficie vers la profondeur", "explanation": "C’est l’inverse, de la profondeur vers la superficie !!!" },
+                { "choice": "Elle est 100 fois moins fréquente que l’érysipèle, mais beaucoup plus grave : 30% de mortalité", "explanation": "Exactement le cours du Pilly" },
+                "Il s’agit d’une urgence médico-chirurgicale",
+                { "choice": "Elle est le plus souvent due à S. aureus", "explanation": "S. pyogenes" },
+		{ "choice": "On peut retrouver des crépitations en cas d’association à des bactéries anaérobies", "explanation": "Attention, pas les bactéries aérobies !" }
+            ],
+            "answer": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quelles sont les mycoses qui peuvent avoir Candida comme étiologie ?",
+            "options": [
+                { "choice": "Intertrigo des grands plis", "explanation": "Soit candida, soit dermatophytes" },
+                "Périonyxis",
+                { "choice": "Onyxis", "explanation": "Dermatophytes" },
+                "Balanite",
+		{ "choice": "Pityriasis versicolor", "explanation": "Malassezia furfur" },
+		"Vulvo-vaginite",
+		{ "choice": "Dermite séborrhéique", "explanation": "Malassezia furfur" }
+            ],
+            "answer": [
+                0,
+                1,
+                3,
+		5
+            ]
+        }
+    ]
+}
