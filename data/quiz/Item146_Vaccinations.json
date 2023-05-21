@@ -6,7 +6,7 @@
             "options": [
                 "Protection immédiate et durable",
                 "Protection différée et transitoire",
-                "Protection immédiate et transitoire",
+                { "choice": "Protection immédiate et transitoire", "explanation": "Immédiate car anticorps actifs directement après injection mais absence de mémoire immunologique donc transitoire" },
 		"Protection différée et transitoire"
             ],
             "answer": 2
@@ -16,7 +16,7 @@
             "question": "Lors de la réponse primaire :",
             "options": [
                 "L'ascension des anticorps est lente et différée",
-                "La décroissance des anticorps est lente",
+                { "choice": "La décroissance des anticorps est lente", "explanation": "Rapide !" },
                 "Il s'agit d'anticorps de type IgM",
                 "Ce type de réponse est observée après un rappel de vaccin",
 		"Ce type de réponse est observée après la primovaccination"
@@ -31,11 +31,11 @@
             "type": "multiple_choice",
             "question": "Lors de la réponse secondaire :",
             "options": [
-                "Elle est observée après une nouvelle infection rapprochée (1 à 2 ans)",
+                { "choice": "Elle est observée après une nouvelle infection rapprochée (10 à 20 ans)", "explanation": "Plutôt 1 à 2 mois..." }, 
                 "Les anticorps ont une ascension rapide, importante et sont majoritairement de type IgG",
-                "L'affinité des anticorps est identique à la réponse primaire",
-                "Il n'existe aucune ascension des anticorps IgM",
-		"On parle d'un Switch entre IgM (réponse secondaire) et IgG (réponse primaire)"
+                { "choice": "L'affinité des anticorps est identique à la réponse primaire", "explanation": "L'affinité augmente !" },
+                { "choice": "Il n'existe aucune ascension des anticorps IgM", "explanation": "Cette ascension est tout de même présente, bien qu'inférieure à celle des IgG" },
+		{ "choice": "On parle d'un Switch entre IgM (réponse secondaire) et IgG (réponse primaire)", "explanation": "C'est l'inverse" }
             ],
             "answer": [
                 1
@@ -46,8 +46,8 @@
             "question": "Parmi les propositions suivantes, quels sont les vaccins vivants atténués ?",
             "options": [
                 "ROR",
-                "Grippe injectable",
-                "Tétanos",
+                { "choice": "Grippe injectable", "explanation": "C'est la grippe nasale qui correspond au vaccin vivant atténué" },
+                { "choice": "Tétanos", "explanation": "Inactivé" },
                 "Rotavirus",
 		"BCG",
 		"Leptospirose",
@@ -64,12 +64,12 @@
             "type": "multiple_choice",
             "question": "A propos des vaccins :",
             "options": [
-                "Les vaccins vivants atténués nécessitent souvent des rappels",
-                "Les vaccins inertes induisent une protection plus rapide et plus prolongée que les vaccins vivants atténués",
+                { "choice": "Les vaccins vivants atténués nécessitent souvent des rappels", "explanation": "Au contraire, ils immunisent plus que les vaccins inactivés. Donc moins de rappels nécessaires." },
+                { "choice": "Les vaccins inertes induisent une protection plus rapide et plus prolongée que les vaccins vivants atténués", "explanation": "C'est l'inverse" },
                 "A propos des polysaccharides, seuls les vaccins conjugués permettent d'éliminer le portage",
                 "Une présence d'adjuvants est requise de manière quasi-constante pour les vaccins inertes",
 		"La voie intramusculaire est généralement plus efficace que la voie sous-cutanée",
-		"La voie sous-cutanée est parfois privilégiée du fait de la grande densité en cellules présentatrices d'antigène"
+		{ "choice": "La voie sous-cutanée est parfois privilégiée du fait de la grande densité en cellules présentatrices d'antigène", "explanation": "C'est la voie intradermique" }
             ],
             "answer": [
                 2,
