@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "A propos des IST :",
+            "options": [
+                "La trichomonose est particulièrement fréquente en Afrique et aux Caraïbes",
+		{ "choice": "L’infection par le gonocoque est en augmentation uniquement chez les HSH", "explanation": "Aussi chez les hétérosexuels !!" },
+		{ "choice": "La syphilis est une infection à expression essentiellement génitale", "explanation": "Génitale et extragénitale ; la syphilis est un cas particulier" },
+		"Les cervicites à C. trachomatis touchent essentiellement les femmes de moins de 25 ans",
+		"La lymphogranulomatose vénérienne est en augmentation quasi exclusivement chez les HSH"
+            ],
+            "answer": [
+                0,
+                3,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des infections génitales de l’homme :",
+            "options": [
+                { "choice": "L’orchi-épididymite est une infection apyrétique", "explanation": "Fièvre progressive ou de début brutal, d’intensité variable" },
+                "N. gonorrheae est responsable d’urétrite aigue purulente d’incubation courte",
+                { "choice": "Lors d’une urétrite, on retrouve lors des mictions un écoulement méatique spontané", "explanation": "En dehors des mictions !!!" },
+                "L’orchi-épididymite du sujet jeune est souvent associé à une urétrite",
+		{ "choice": "T. vaginalis est l’étiologie la plus fréquente des urétrites en France", "explanation": "Très rarement en cause en France, on retrouve plutôt N. gonorrhoeae, C. trachomatis et Mycoplasma genitalium" }
+            ],
+            "answer": [
+                1,
+                3
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du traitement des IST :",
+            "options": [
+                { "choice": "Le traitement de 1ere intention du Gonocoque est la Doxycycline per os pendant 7 jours", "explanation": "Ceftriaxone IM dose unique" },
+                { "choice": "Le traitement de 1ere intention de Chlamydia trachomatis est Métronidazole per os dose unique", "explanation": "Doxycycline per os 7 jours" },
+                { "choice": "Le traitement de 1ere intention de Trichomonas vaginalis est Ceftriaxone IM dose unique", "explanation": "Métronidazole per os dose unique" },
+                "Lors d’une infection à gonocoque, on réalise un dépistage du partenaire",
+		{ "choice": "Lors d’une infection à syphilis, on traite d’emblée le partenaire si le dernier rapport sexuel date de moins de 6 mois", "explanation": "Moins de 6 semaines !" }
+            ],
+            "answer": [
+                3
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la syphilis :",
+            "options": [
+                { "choice": "La syphilis primaire débute en moyenne 3 jours après le contage", "explanation": "3 semaines !" },
+                { "choice": "Lors d’une syphilis primaire, on retrouve une ulcération classiquement indolore et à fond induré pouvant siéger sur la muqueuse buccale", "explanation": "Aussi possible sur muqueuse génitale et anale" },
+                { "choice": "L’alopécie est fréquente dans la syphilis secondaire", "explanation": "Rare !" },
+                "La syphilis secondaire peut être observée jusqu’à 1 an après la contamination",
+		{ "choice": "On retrouve lors de la neurosyphilis tardive une méningite avec atteinte des paires crâniennes et formes ophtalmiques", "explanation": "Ce sont les symptômes de la neurosyphilis précoce !" }
+            ],
+            "answer": [
+                1,
+                3
+            ]
+        }
+    ]
+}
