@@ -1,5 +1,6 @@
 {
     "items": [
+	{ "title": "Myasthénie (Item98)", "file": "Item98_Myasthenie" },
 	{ "title": "Oeil et sclérose en plaques (Item104)", "file": "Item104_Oeil_Sclerose_en_plaques" },
 	{ "title": "Vaccinations (Item146)", "file": "Item146_Vaccinations" },
 	{ "title": "DP n°1 Infections naso-sinusiennes (Item148)", "file": "Item148_DP1_Infections_naso_sinusiennes" },

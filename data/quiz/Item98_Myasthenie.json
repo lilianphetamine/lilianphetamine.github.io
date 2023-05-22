@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la myasthénie, quelles sont les réponses vraies ?",
+            "options": [
+                { "choice": "Il s’agit d’une maladies auto-immune", "explanation": "Vrai : Elle fait intervenir des anticorps auto-immuns dirigés contre la jonction neuromusculaire" },
+		{ "choice": "Elle implique dans sa physiopathologie des anticorps anti-récepteurs à la dopamine", "explanation": "Faux : anti-récepteurs à l’acétylcholine !" },
+		{ "choice": "Le thymus possède un grand rôle dans cette pathologie", "explanation": "Le thymus produit les LT helper, qui eux-mêmes stimulent la production des auto-Ac par les LB / plasmocytes" },
+		{ "choice": "La myasthénie se caractérise entres autres par une fatigabilité excessive à l’effort, non corrigée au repos", "explanation": "Si, la fatigabilité est bien corrigée au repos" },
+		{ "choice": "La myasthénie peut engendrer une perturbation de la motilité intestinale", "explanation": "La myasthénie touche la musculature striée. Or, le tube digestif peut bouger grâce à des muscles lisses, et donc n’est pas concerné par cette pathologie" }
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        }
+    ]
+}
