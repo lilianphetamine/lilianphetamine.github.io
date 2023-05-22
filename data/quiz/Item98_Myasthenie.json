@@ -37,7 +37,7 @@
             "options": [
                 "Il peut y avoir des troubles de la déglutition",
 		{ "choice": "Il peut y avoir des troubles de la phonation, de la mastication et du langage", "explanation": "Faux : Pas de troubles du langage... Pas d'aphasie !" },
-		{ "choice": "Le sujet se trouve parfois dans l'obligation de tenir sa machoire supérieure avec sa main lors de la mastication au cours des repas", "explanation": "Tout est vrai SAUF qu'il s'agit de sa machoire inférieure ! (désole)" },
+		{ "choice": "Le sujet se trouve parfois dans l'obligation de tenir sa machoire supérieure avec sa main lors de la mastication au cours des repas", "explanation": "Tout est vrai SAUF qu'il s'agit de sa machoire inférieure ! (désolé)" },
 		"Il peut y avoir des troubles de la motricité linguale",
 		{ "choice": "Les muscles proximaux peuvent être atteints", "explanation": "Attention ! Les muscles des membres n'ont pas une innervation bulbaire !" }
             ],
@@ -62,7 +62,7 @@
                 { "choice": "VRAI", "explanation": "Troubles moteurs +++, néanmoins l'examen peut être normal si les symptomes sont intermittents !" },
                 "FAUX"
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "type": "multiple_choice",
