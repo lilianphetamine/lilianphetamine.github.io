@@ -16,6 +16,7 @@
 	{ "title": "IST (Item 162)", "file": "Item162_IST" },
 	{ "title": "Grippe (Item166)", "file": "Item166_Grippe" },
 	{ "title": "DP n°1 Grippe (Item166)", "file": "Item166_DP1_Grippe" },
+	{ "title": "Hépatites virales (Item167)", "file": "Item167_Hepatites_virales" },
 	{ "title": "Rétinopathie Diabétique (Item247)", "file": "Item247_Retinopathie_diabetique" },
 	{ "title": "Traumatismes oculaires (Item335)", "file": "Item335_Traumatismes_oculaires" },
 	{ "title": "Brûlures oculaires (Item335b)", "file": "Item335b_Brulures_oculaires" }

@@ -1,0 +1,82 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l’hépatite A :",
+            "options": [
+                { "choice": "C’est un virus à ADN non cytopathogène", "explanation": "Virus à ARN non cytopathogène !" },
+		"Elle est asymptomatique chez l’enfant",
+		"Le VHA n’est pas pourvoyeur d’hépatite chronique",
+		{ "choice": "Les marqueurs sérologiques de la phase aigüe sont Ag HBs", "explanation": "IgM anti-VHA" },
+		{ "choice": "La phase d’incubation est de 15 à 90 jours", "explanation": "10/45 jours !" }
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l’hépatite B :",
+            "options": [
+                "C’est un virus à ADN peu cytopathogène",
+                { "choice": "L’infection aiguë peut entrainer un carcinome hépatocellulaire même en l’absence de cirrhose", "explanation": "L’infection chronique !! Le reste est vrai !" },
+                "L’évolution vers l’infection chronique varie de 5 à 10% chez les adultes à 90% chez les nouveaux-nés",
+                { "choice": "On retrouve des transaminases 20 à 40N lors de la phase aigüe", "explanation": "5 à 20 N" },
+		"On distingue 3 phases principales lors de l’évolution chronique de l’infection VHB : Ag Hbe+, Ag Hbe+ ou – et Ag Hbe-"
+            ],
+            "answer": [
+                0,
+                2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l’hépatite C :",
+            "options": [
+                { "choice": "C’est un virus à ADN directement cytopathogène pour le foie", "explanation": "Virus à ARN !!!" },
+                { "choice": "Elle évolue vers la chronicité dans la majorité des cas", "explanation": "Vrai : 65 à 85% des cas" },
+                { "choice": "L’hypertransaminasémie ne persiste pas à la phase chronique", "explanation": "Et si ..." },
+                "Toutes les infections chroniques de l’hépatite C doivent être traitées",
+		{ "choice": "L’objectif du traitement antibiotique est d’éviter la progression vers la cirrhose et de favoriser la régression de celle-ci lorsqu’elle est présente", "explanation": "L’hépatite C est un virus, on la traite donc par antiviral... Le reste de l’item est juste" }
+            ],
+            "answer": [
+                1,
+		3
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l’hépatite D :",
+            "options": [
+                { "choice": "C’est un virus défectif à ARN utilisant l’enveloppe du VHB pour se répliquer", "explanation": "Effectivement... Le seul virus à ADN traité dans l'item du Pilly parmi les hépatites est le virus de l'hépatite B !" },
+                "La guérison spontanée est possible en cas d’infection simultanée avec le VHB",
+                "Le risque de forme fulminante est de 5%",
+                { "choice": "Les marqueurs du VHD sont les IgM anti-VHD", "explanation": "IgG anti-VHD" },
+		"Elle est le plus souvent asymptomatique en phase d'invasion et d'état"
+            ],
+            "answer": [
+                0,
+                1,
+		2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l’hépatite E :",
+            "options": [
+                "C’est un virus à ARN",
+                { "choice": "65 à 85% des cas évoluent vers une infection chronique", "explanation": "L’infection chronique du VHE survient uniquement chez l’immunodéprimé, elle est donc rare" },
+                { "choice": "Elle est asymptomatique en phase d'état lors de l'infection aiguë", "explanation": "Ictère fébrile et hépatalgie" },
+                { "choice": "Les modes de transmissions les plus fréquents sont parentérale et sexuelle", "explanation": "Féco-orale = Mode le plus fréquent !" },
+		"On retrouve un syndrome pseudo-grippal chez l’adulte en phase d'invasion de l'infection aiguë"
+            ],
+            "answer": [
+                0,
+		4
+            ]
+        }
+    ]
+}
