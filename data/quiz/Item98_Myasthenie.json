@@ -14,6 +14,94 @@
                 0,
                 2
             ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du diagnostic clinique de la myasthénie :",
+            "options": [
+                "Une fatigabilité excessive de la musculature striée à l'effort et fluctuant fait partie des signes fonctionnels",
+		{ "choice": "Cette fatigabilité peut toucher des muscles non concernés par l'effort", "explanation": "Oui ! Encore plus évocateur..." },
+		{ "choice": "Dans 10% des cas, les premières manifestations sont purement oculaires", "explanation": "Dans 50% des cas plutôt..." },
+		{ "choice": "Le ptosis est bilatéral au début avant de s'unilatéraliser par la suite", "explanation": "C'est l'inverse... D'abord unilatéral et peut se bilatéraliser par la suite !" },
+		{ "choice": "Le muscle pupillaire est indemne", "explanation": "Pas de myosis ou mydriase ! La musculature intrinsèque n'est pas touchée !" }
+            ],
+            "answer": [
+                0,
+                1,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des muscles d'innervation bulbaire touchés lors de la myasthénie :",
+            "options": [
+                "Il peut y avoir des troubles de la déglutition",
+		{ "choice": "Il peut y avoir des troubles de la phonation, de la mastication et du langage", "explanation": "Faux : Pas de troubles du langage... Pas d'aphasie !" },
+		{ "choice": "Le sujet se trouve parfois dans l'obligation de tenir sa machoire supérieure avec sa main lors de la mastication au cours des repas", "explanation": "Tout est vrai SAUF qu'il s'agit de sa machoire inférieure ! (désole)" },
+		"Il peut y avoir des troubles de la motricité linguale",
+		{ "choice": "Les muscles proximaux peuvent être atteints", "explanation": "Attention ! Les muscles des membres n'ont pas une innervation bulbaire !" }
+            ],
+            "answer": [
+                0,
+                3
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Lors de la myasthénie : le ptosis peut être majoré après fixation du regard vers le bas et amélioré après un test au glaçon",
+            "options": [
+                "VRAI",
+                { "choice": "FAUX", "explanation": "Après fixation du regard vers le haut..." }
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Lors de la myasthénie il y a une absence de trouble sensitif et de signe d'atteinte neurologique centrale",
+            "options": [
+                { "choice": "VRAI", "explanation": "Troubles moteurs +++, néanmoins l'examen peut être normal si les symptomes sont intermittents !" },
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de l'évolution de la myasthénie :",
+            "options": [
+                { "choice": "Elle est chronique et prévisible, avec périodes de poussée et de rémission", "explanation": "Imprévisible !" },
+		{ "choice": "Elle s'aggrave inexorablement tout le long de la maladie", "explanation": "Faux : Tendance à l'aggravation dans les premières années" },
+		{ "choice": "Pour 85% des patients, le stade de gravité maximum est atteint dans un délai inférieur à 3 semaines", "explanation": "On parle bien d'une maladie chronique... Le stade maximum est atteint dans un délai inférieur à 3 ans !" },
+		"Des complications vitales sont possibles lors de crises myasthéniques",
+		"Possible aggravation de la myasthénie au cours de la grossesse et en post-partum"
+            ],
+            "answer": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Cochez les éléments paracliniques du diagnostic de la myasthénie :",
+            "options": [
+                "Recherche des anticorps (anti-RACh, anti-MuSK et anti-LRP4)",
+		{ "choice": "Recherche d'un incrément en ENMG", "explanation": "Faux : Recherche d'un décrément !!" },
+		{ "choice": "IRM cérébrale", "explanation": "Aucune utilité... Plutôt scanner thoracique SI suspicion de myasthénie" },
+		{ "choice": "Test pharmacologique aux anticholinestérasiques", "explanation": "En hospitalisation seulement, devant le risque de crise cholinergique" },
+		{ "choice": "Ponction lombaire à la recherche d'une hyperprotéinarchie", "explanation": "Aucun rapport... Nope !" }
+            ],
+            "answer": [
+                0,
+                3
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Chez 50% des cas, l'atteinte reste localisée aux muscles oculaires après 2 ans (myasthénie oculaire)",
+            "options": [
+                "VRAI",
+                { "choice": "FAUX", "explanation": "Il faut distinguer la myasthénie oculaire des symptomes oculaires qui eux sont très fréquents au début de la maladie (50% des cas) et le plus souvent suivis d'une généralisation. On ne peut donc pas poser le diagnostic de myasthénie oculaire avant un recul de 2 ans" }
+            ],
+            "answer": 1
         }
     ]
 }
