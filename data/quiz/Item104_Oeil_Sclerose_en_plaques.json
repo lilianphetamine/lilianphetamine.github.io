@@ -24,7 +24,7 @@
                 { "choice": "L’évolution vers une SEP est de 50% en 5 ans", "explanation": "En 15 ans !" },
                 { "choice": "La corticothérapie orale seule est contre indiquée", "explanation": "En raison du risque accru de rechutes visuelles" },
                 { "choice": "La neuromyélite de Devic est traitée par immunomodulateurs interférons et acétate de glatiramère", "explanation": "Ces immunomodulateurs sont contre-indiqués en cas de neuromyélite de Devic. Dans ce cadre, la 
-corticothérapie parentérale de la névrite optique est suivie par un relais oral prolongé et souvent associée à un traitement immunosuppresseur (azathioprine, rituximab, mycophénolate)" },
+corticothérapie parentérale de la névrite optique est suivie par un relais oral prolongé et souvent associée à un traitement immunosuppresseur" },
 		"L’acuité visuelle initiale est le meilleur facteur prédictif de l’acuité visuelle finale"
             ],
             "answer": [
@@ -52,7 +52,7 @@ corticothérapie parentérale de la névrite optique est suivie par un relais or
             "question": "A propos de la SEP :",
             "options": [
                 { "choice": "Le critère de dissémination spatiale implique qu’il y ait 2 localisations différentes", "explanation": "Vrai, parmi les 4 localisations suivantes : juxta-cortical, périventriculaire, médullaire, sous-tentoriel" },
-                { "choice": "La dissémination spatiale peut être remplacée par l’analyse du LCS", "explanation": "Faux, c’est la dissémination temporelle" },
+                { "choice": "La dissémination spatiale peut être remplacée par l’analyse du LCS", "explanation": "Faux, c’est la dissémination temporelle qui peut être remplacée par le LCS" },
                 { "choice": "L’examen de choix pour la SEP est la Ponction Lombaire, afin d’objectiver l’inflammation du LCS", "explanation": "Faux, l’examen clé est l’IRM cérébrale" },
                 { "choice": "Le principal diagnostic différentiel est l’épisode inflammatoire du SNC isolé", "explanation": "Vrai, comme dans par exemple la névrite optique auto-immune idiopathique" },
 		{ "choice": "La forme la plus courante de SEP est la forme primaire progressive", "explanation": "Faux, c’est la forme rémittente-récurrente" }
@@ -70,8 +70,8 @@ corticothérapie parentérale de la névrite optique est suivie par un relais or
                 { "choice": "Sur une IRM, on peut trouver une lésion ovalaire de plus de 3 vertèbres de haut", "explanation": "Elle doit être inférieure à 3 vertèbres de haut" },
                 { "choice": "La myélite partielle peut associer des troubles sphinctériens", "explanation": "Effectivement" },
                 "La NORB révèle la maladie dans ¼ des cas",
-		{ "choice": "La névrite optique est une urgence diagnostique", "explanation": "Oui, elle peut être source de diagnostic plus grave (neuromyélite optique de Devic)" },
-		{ "choice": "La SEP ne peut provoquer d’ataxie", "explanation": "Eh si !" },
+		{ "choice": "La névrite optique est une urgence diagnostique", "explanation": "Oui, elle peut être source de diagnostic plus grave comme la neuromyélite optique de Devic" },
+		{ "choice": "La SEP ne peut pas provoquer d’ataxie", "explanation": "Eh si !" },
 		{ "choice": "La SEP touche principalement les femmes", "explanation": "Comme la plupart des maladies auto-immunes" }
             ],
             "answer": [
