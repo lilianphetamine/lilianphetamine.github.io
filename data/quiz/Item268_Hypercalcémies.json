@@ -1,0 +1,31 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "L'hypercalcémie est définie par une calcémie supérieure à...",
+            "options": [
+                "1,63 mmol/L",
+                "0,63 mmol/L",
+                "2,83 mmol/L",
+		{ "choice": "2,63 mmol/L", "explanation": "Aussi égal à 105 mg/L" },
+		"3 mmol/L"
+            ],
+            "answer": 3
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du calcium :",
+            "options": [
+                { "choice": "Plus de 50% du calcium est sous forme ionisée", "explanation": "Non, 53% du calcium est lié, donc non ionisé" },
+                "L'albumine est la principale protéine qui lie le calcium",
+		{ "choice": "13% du calcium est lié aux cations", "explanation": "Piège... aux anions !!" },
+		{ "choice": "Il existe une formule pour calculer la calcémie corrigée", "explanation": "Elle prend en compte l'albumine" },
+		{ "choice": "Dans la majorité des cas, l'hypercalcémie est mortelle", "explanation": "Majorité des hypercalcémies = chronique, donc non mortel !" }
+            ],
+            "answer": [
+                1,
+                3
+            ]
+        }
+    ]
+}
