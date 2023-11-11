@@ -50,7 +50,7 @@
             "type": "multiple_choice",
             "question": "A propos de la SEP :",
             "options": [
-                { "choice": "Le critère de dissémination spatiale implique qu’il y ait 2 localisations différentes", "explanation": "Vrai, parmi les 4 localisations suivantes : juxta-cortical, périventriculaire, médullaire, sous-tentoriel" },
+                { "choice": "Le critère de dissémination spatiale implique qu’il y ait 2 localisations différentes", "explanation": "Vrai, parmi les 4 localisations suivantes = juxta-cortical, périventriculaire, médullaire, sous-tentoriel" },
                 { "choice": "La dissémination spatiale peut être remplacée par l’analyse du LCS", "explanation": "Faux, c’est la dissémination temporelle qui peut être remplacée par le LCS" },
                 { "choice": "L’examen de choix pour la SEP est la Ponction Lombaire, afin d’objectiver l’inflammation du LCS", "explanation": "Faux, l’examen clé est l’IRM cérébrale" },
                 { "choice": "Le principal diagnostic différentiel est l’épisode inflammatoire du SNC isolé", "explanation": "Vrai, comme dans par exemple la névrite optique auto-immune idiopathique" },
