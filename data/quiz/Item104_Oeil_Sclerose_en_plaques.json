@@ -45,6 +45,40 @@
             "answer": [
                 2
             ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos de la SEP :",
+            "options": [
+                { "choice": "Le critère de dissémination spatiale implique qu’il y ait 2 localisations différentes", "explanation": "Vrai, parmi les 4 localisations suivantes : juxta-cortical, périventriculaire, médullaire, sous-tentoriel" },
+                { "choice": "La dissémination spatiale peut être remplacée par l’analyse du LCS", "explanation": "Faux, c’est la dissémination temporelle" },
+                { "choice": "L’examen de choix pour la SEP est la Ponction Lombaire, afin d’objectiver l’inflammation du LCS", "explanation": "Faux, l’examen clé est l’IRM cérébrale" },
+                { "choice": "Le principal diagnostic différentiel est l’épisode inflammatoire du SNC isolé", "explanation": "Vrai, comme dans par exemple la névrite optique auto-immune idiopathique" },
+		{ "choice": "La forme la plus courante de SEP est la forme primaire progressive", "explanation": "Faux, c’est la forme rémittente-récurrente" }
+            ],
+            "answer": [
+                0,
+		3
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos des signes de la SEP :",
+            "options": [
+                { "choice": "Le signe de Léri est très évocateur", "explanation": "C’est le signe de Lhermitte !" },
+                { "choice": "Sur une IRM, on peut trouver une lésion ovalaire de plus de 3 vertèbres de haut", "explanation": "Elle doit être inférieure à 3 vertèbres de haut" },
+                { "choice": "La myélite partielle peut associer des troubles sphinctériens", "explanation": "Effectivement" },
+                "La NORB révèle la maladie dans ¼ des cas",
+		{ "choice": "La névrite optique est une urgence diagnostique", "explanation": "Oui, elle peut être source de diagnostic plus grave (neuromyélite optique de Devic)" },
+		{ "choice": "La SEP ne peut provoquer d’ataxie", "explanation": "Eh si !" },
+		{ "choice": "La SEP touche principalement les femmes", "explanation": "Comme la plupart des maladies auto-immunes" }
+            ],
+            "answer": [
+                2,
+		3,
+		4,
+		6
+            ]
         }
     ]
 }
