@@ -5,9 +5,9 @@
             "question": "A propos de la névrite optique rétro-bulbaire",
             "options": [
                 "Elle a une nette prédominance féminine",
-                "La baise d’acuité visuelle est brutale",
+                { "choice": "La baise d’acuité visuelle est brutale", "explanation": "Subaiguë !" },
                 "Les douleurs rétro-bulbaires évoquent le caractère inflammatoire de la neuropathie",
-                "L’examen du fond d’œil est toujours normal",
+                { "choice": "L’examen du fond d’œil est toujours normal", "explanation": "Oedème papillaire 10% des cas" },
 		"L’examen de la vision des couleurs montre une dyschromatopsie d’axe rouge/vert"
             ],
             "answer": [
@@ -21,9 +21,10 @@
             "question": "A propos de la NORB :",
             "options": [
                 "L’IRM encéphalique est réalisée de façon systématique et permet d’évaluer le risque d’évolution ultérieure vers une SEP",
-                "L’évolution vers une SEP est de 50% en 5 ans",
-                "La corticothérapie orale seule est contre indiquée",
-                "La neuromyélite de Devic est traitée par immunomodulateurs interférons et acétate de glatiramère",
+                { "choice": "L’évolution vers une SEP est de 50% en 5 ans", "explanation": "En 15 ans !" },
+                { "choice": "La corticothérapie orale seule est contre indiquée", "explanation": "En raison du risque accru de rechutes visuelles" },
+                { "choice": "La neuromyélite de Devic est traitée par immunomodulateurs interférons et acétate de glatiramère", "explanation": "Ces immunomodulateurs sont contre-indiqués en cas de neuromyélite de Devic. Dans ce cadre, la 
+corticothérapie parentérale de la névrite optique est suivie par un relais oral prolongé et souvent associée à un traitement immunosuppresseur (azathioprine, rituximab, mycophénolate)" },
 		"L’acuité visuelle initiale est le meilleur facteur prédictif de l’acuité visuelle finale"
             ],
             "answer": [
@@ -40,7 +41,7 @@
                 "Elle a un meilleur pronostic que la sclérose en plaques",
                 "Les patients atteints portent des auto-anticorps sériques très spécifiques, appelés auto-anticorps aquaporine-4, ayant une valeur pronostique de la maladie",
                 "La prise en charge d’une SEP et d’une NMO est globalement la même",
-		"La névrite optique est plus sévère, souvent unilatérale, parfois à bascule, se manifestant par une baisse visuelle profonde"
+		{ "choice": "La névrite optique est plus sévère, souvent unilatérale, parfois à bascule, se manifestant par une baisse visuelle profonde", "explanation": "Souvent bilatérale !" }
             ],
             "answer": [
                 2
