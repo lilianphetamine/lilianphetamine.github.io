@@ -17,8 +17,7 @@
                 "Elle est la conséquence secondaire d'un déséquilibre testostérone-oestrogènes",
 		{ "choice": "La principale cause est médicamenteuse ou idiopathique", "explanation": "Effectivement, dans 25% des cas" },
 		{ "choice": "La principale cause est pubertaire", "explanation": "Faux, seulement 15% des cas" },
-		{ "choice": "Un des diagnostics différentiels est l'adipomastie", "explanation": "Adipomastie = excentrée vers le grand pectoral, bilatérale, insensible, molle et grenue à la palpation. Pas
-d’excès de tissu glandulaire retrouvé par mammographie ou échographie" }
+		{ "choice": "Un des diagnostics différentiels est l'adipomastie", "explanation": "Adipomastie = excentrée vers le grand pectoral, bilatérale, insensible, molle et grenue à la palpation. Pas d’excès de tissu glandulaire retrouvé par mammographie ou échographie" }
             ],
             "answer": [
                 1,
