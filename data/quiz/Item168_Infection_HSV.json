@@ -1,0 +1,69 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "Dans quels cas prescrit-on de l’aciclovir ?",
+            "options": [
+                "Varicelle du patient immunodéprimé",
+                { "choice": "Herpès génital du patient immunocompétent", "explanation": "Valaciclovir !" },
+		"Méningoencéphalite du à HSV du patient immunocompétent",
+		{ "choice": "Zona ophtalmique du patient immunocompétent", "explanation": "Valaciclovir !" },
+		"Primo-infection HSV du patient immunodéprimé"
+            ],
+            "answer": [
+                0,
+                2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du HSV :",
+            "options": [
+                { "choice": "La dissémination par voie hématogène est fréquente", "explanation": "Possible, mais rare !" },
+                { "choice": "Les règles ou le stress sont des causes possibles de récurrences de l’HSV", "explanation": "Le stress lié à l'exposition au soleil par exemple" },
+		{ "choice": "On peut retrouver des dysphagies parfois majeures lors de la primo-infection à HSV-1", "explanation": "Tableau d’une gingivostomatite aigue" },
+		{ "choice": "L’herpès génital est dû à HSV-2 dans 90% des cas", "explanation": "HSV-2 70 à 85% des cas et HSV-1 15 à 30% des cas" },
+		"On retrouve lors de la primo-infection d’herpès génital des lésions génitales érythémato-vésiculeuses douloureuses, rapidement ulcérées et recouvertes d’un exsudat blanchâtre"
+            ],
+            "answer": [
+                1,
+                2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la varicelle :",
+            "options": [
+                "90% des cas surviennent chez l’enfant entre 1 et 14 ans",
+                "L’incubation moyenne est de 14 jours",
+		"On retrouve classiquement des maculopapules inconstantes qui se transforment en vésicules disséminés, très prurigineuses",
+		{ "choice": "L’apparition de croûtes brunâtres a lieu à J4 et la cicatrisation à J7", "explanation": "Cicatrisation J10" },
+		"On prescrit de la chlorexidine en solution aqueuse en cas de surinfection bactérienne, qui sont fréquentes chez l’enfant à cause du grattage"
+            ],
+            "answer": [
+                0,
+                1,
+		2,
+		4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos du zona :",
+            "options": [
+                "Sa gravité peut être lié à certaines localisations",
+                "Le zona ophtalmique comporte des complications oculaires fréquentes, notamment lors de l’atteinte de la branche nasale externe du trijumeau",
+		{ "choice": "Les paralysies oculomotrices sont rares en cas de zona ophtalmique", "explanation": "Fréquentes" },
+		"Le zona du ganglion géniculé comporte une douleur et éruption auriculaire, siégeant dans la zone de Ramsay-Hun",
+		{ "choice": "Le traitement local comporte des douches quotidiennes à l’eau tiède et au savon et de l’aciclovir per os pendant 7 jours", "explanation": "Le traitement local comporte des douches quotidiennes en cas de zona normal et de la chlorexidine en cas de surinfection bactérienne. Le traitement antiviral comporte du valaciclovir per os 7 jours" }
+            ],
+            "answer": [
+                0,
+                1,
+		3
+            ]
+        },
+    ]
+}
