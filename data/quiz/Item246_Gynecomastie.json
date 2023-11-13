@@ -1,0 +1,29 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Le tissu mammaire ne possède pas la même potentialité de développement dans les deux sexes :",
+            "options": [
+                "VRAI",
+                "FAUX"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos de la gynécomastie :",
+            "options": [
+                { "choice": "Il s'agit d'une hyerplasie de la glande mammaire chez l'homme, rare, uni ou bilatérale", "explanation": "Non, c'est une pathologie fréquente !" },
+                "Elle est la conséquence secondaire d'un déséquilibre testostérone/oestrogènes",
+		{ "choice": "La principale cause est médicamenteuse ou idiopathique", "explanation": "Effectivement, dans 25% des cas" },
+		{ "choice": "La principale cause est pubertaire", "explanation": "Faux, seulement 15% des cas" },
+		{ "choice": "Un des diagnostics différentiels est l'adipomastie", "explanation": "Adipomastie = excentrée vers le grand pectoral, bilatérale, insensible, molle et grenue à la palpation. Pas
+d’excès de tissu glandulaire retrouvé par mammographie ou échographie" }
+            ],
+            "answer": [
+                1,
+                3
+            ]
+        }
+    ]
+}
