@@ -134,14 +134,14 @@
             "options": [
                 "Toux nocturne",
                 "Inversion du rythme nychtéméral",
-                "Entraine une hypoexcitabilité",
-                "Entraine une hyperexcitabilité",
-		"Est souvent contemporain d'une affection intercurrente"
+                "Cauchemars",
+                { "choice": "Dépression", "explanation": "Anxiété !!" },
+		"Tremblement postural des mains"
             ],
             "answer": [
-                0,
-                3,
-                4
+                1,
+                2,
+		4
             ]
         },
         {
