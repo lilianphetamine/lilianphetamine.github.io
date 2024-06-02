@@ -89,6 +89,93 @@
                 4,
                 5
             ]
+        },
+        {
+            "type": "single_choice",
+            "question": "L'alcool agit comme __________ des récepteurs GABA :",
+            "options": [
+                "agoniste",
+                "antagoniste"
+            ],
+            "answer": 0
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Le sevrage alcoolique...",
+            "options": [
+                "Entraine une diminution de la transmission gabaergique",
+                "Entraine une augmentation de la transmission gabaergique",
+                "Entraine une hypoexcitabilité",
+                "Entraine une hyperexcitabilité",
+		"Est souvent contemporain d'une affection intercurrente"
+            ],
+            "answer": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Dans le cadre des complications neurologiques aiguës du sevrage alcoolique, la crise d'épilepsie la plus fréquente est...",
+            "options": [
+                "L'absence typique",
+                "La crise myoclonique",
+		"La crise temporale interne",
+		"La crise hyperthermique simple",
+		"La crise hyperthermique compliquée",
+		"La crise généralisée tonicoclonique"
+            ],
+            "answer": 5
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les signes de pré-delirium tremens sont :",
+            "options": [
+                "Toux nocturne",
+                "Inversion du rythme nychtéméral",
+                "Entraine une hypoexcitabilité",
+                "Entraine une hyperexcitabilité",
+		"Est souvent contemporain d'une affection intercurrente"
+            ],
+            "answer": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Lors du delirium tremens, en cas de persistance des hallucinations malgré le traitement par benzodiazépines, il est possible de recourir aux neuroleptiques.",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": 0
+        },
+        {
+            "type": "single_choice",
+            "question": "L'encéphalopathie de Gayet-Wernicke est dûe à une carence en ...",
+            "options": [
+                "Fer",
+                "Folates",
+		"Vitamine B6",
+		"Vitamine PP",
+		{ "choice": "Vitamine B1", "explanation": "Parfois induite par un apport glucidique" }
+            ],
+            "answer": 4
+        },
+        {
+            "type": "single_choice",
+            "question": "L'encéphalopathie pellagreuse est dûe à une carence en ...",
+            "options": [
+                "Fer",
+                "Folates",
+		"Vitamine B6",
+		{ "choice": "Vitamine PP", "explanation": "Vrai. Elle associe confusion mentale et hypertonie extrapyramidale. Troubles digestifs et signes cutanéomuqueux (glossite, desquamation) sont très inconstants" },
+		{ "choice": "Vitamine B1", "explanation": "Faux : encéphalopathie de Gayet-Wernicke, parfois induite par un apport glucidique" }
+            ],
+            "answer": 3
         }
     ]
 }
