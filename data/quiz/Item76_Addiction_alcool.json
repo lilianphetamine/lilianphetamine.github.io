@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Quel nombre de décès est causé chaque année par l'alcoolisme ?",
+            "options": [
+                "4 100",
+                "41 000",
+                "65 000",
+		"100 000",
+		"141 000"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "La carence vitaminique est une cause directe de toxicité",
+            "options": [
+                { "choice": "Vrai", "explanation": "Toxicité indirecte = carence vitaminique, toxicité directe = fixation sur les récepteurs gabaergique et glutaminergique" },
+                "Faux"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Chez tout patient alcoolique hospitalisé, on prescrit un supplément vitaminique...",
+            "options": [
+                "B1",
+                "B2",
+                "B6",
+                "B12",
+		"Folates",
+		"PP"
+            ],
+            "answer": [
+                0,
+                2,
+                3,
+		4,
+		5
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "A propos des complications neurologiques de l'intoxication alcoolique aiguë :",
+            "options": [
+                { "choice": "Le diagnostic de l'ivresse simple repose sur la mesure de l'alcool dans l'air", "explanation": "Faux, cela se mesure par l'alcoolémie !" },
+                { "choice": "Une dysarthrie, des troubles cochléaires et vertiges peuvent être retrouvés dans l'ivresse simple", "explanation": "Faux, des troubles cérébelleux mais pas cochléaires" },
+                "L'ivresse pathologique est suivie d'un sommeil profond et d'une amnésie lacunaire",
+                { "choice": "Une ivresse convulsivante est possible par augmentation du seuil épileptogène", "explanation": "Faux, mais par abaissement du seuil épileptogène" },
+		"L'ivresse convulsivante non compliquée ne nécessite pas de traitement antiépileptique"
+            ],
+            "answer": [
+                2,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Les signes de gravité du coma éthylique sont :",
+            "options": [
+                "Aréactivité",
+                { "choice": "Myosis", "explanation": "Mydriase !!" },
+                "Hypotonie",
+                "Dépression respiratoire",
+		{ "choice": "Hyperthermie", "explanation": "Hypothermie !!" },
+		"Hypotension"
+            ],
+            "answer": [
+                0,
+                2,
+                3,
+		5
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "Les trois troubles métaboliques qui devront être systématiquement recherchés sont :",
+            "options": [
+                "Hypokaliémie",
+                "Hyperglycémie",
+                "Hypercalcémie",
+                "Hyponatrémie",
+		"Acidocétose",
+		"Hypoglycémie"
+            ],
+            "answer": [
+                3,
+                4,
+                5
+            ]
+        }
+    ]
+}
