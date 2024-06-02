@@ -176,6 +176,96 @@
 		{ "choice": "Vitamine B1", "explanation": "Faux : encéphalopathie de Gayet-Wernicke, parfois induite par un apport glucidique" }
             ],
             "answer": 3
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos de l'encéphalopathie hépatique :",
+            "options": [
+                "Elle est secondaire à l'insuffisance hépatique (cirrhose)",
+                { "choice": "Elle comporte une confusion mentale associée à un astérixis, fait de myoclonies dites positives", "explanation": "Myoclonies dites NEGATIVES !" },
+                { "choice": "Elle comporte parfois des signes pyramidaux", "explanation": "Des signes EXTRApyramidaux !" },
+                { "choice": "L'EEG montre des signes évocateurs d'une encéphalopathie : ondes biphasiques", "explanation": "TRIphasiques" },
+		"Le traitement curatif associe lactulose et néomycine"
+            ],
+            "answer": [
+                0,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "Les troubles du langage sont habituels dans les troubles cognitifs liés à l'alcool",
+            "options": [
+                "Vrai",
+                { "choice": "Faux", "explanation": "Ils sont inhabituels et doivent orienter vers une autre étiologie !!" }
+            ],
+            "answer": 1
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos du syndrome de Korsakoff :",
+            "options": [
+                { "choice": "Il est rarement la conséquence d'une encéphalopathie de Gayet-Wernicke mal ou non traitée", "explanation": "Il est le plus souvent la conséquence d'un Gayet-Wernicke mal ou non traitée" },
+                { "choice": "Il peut rarement apparaître d'emblée", "explanation": "Sans phase d'encéphalopathie préalable" },
+                { "choice": "Il traduit l'atteinte des corps mamillaires, des noyaux dorsomédians du thalamus, du trigone, du gyrus cingulaire", "explanation": "Responsable d'un syndrome amnésique combiné à des signes dysexécutifs" },
+                { "choice": "L'amnésie est principalement rétrograde", "explanation": "Antérograde !!" },
+		{ "choice": "Le traitement vitaminique est nécessaire et toujours efficace", "explanation": "Parfois partiellement efficace" }
+            ],
+            "answer": [
+                1,
+		2
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos de la maladie de Marchiafava-Bignami :",
+            "options": [
+                { "choice": "Elle se caractérise par une démyélinisation du corps calleux", "explanation": "Parfois plus étendue latéralement" },
+                { "choice": "La présentation clinique est spécifique : démence avec mutisme akinétique, troubles de la marche, dysarthrie, hypertonie", "explanation": "Tout est vrai MAIS la présentation clinique est ASPECIFIQUE" },
+                "En imagerie, le corps calleux est hypodense en scanner et hyposignal T1/hypersignal T2 à l'IRM",
+                { "choice": "Le pronostic à moyen terme est classiquement bon avec une nette récupération", "explanation": "Sombre !!" },
+		"Une atteinte limitée avec régression partielle des signes est possible"
+            ],
+            "answer": [
+                0,
+		2,
+		4
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos de l'épilepsie dans l'intoxication alcoolique chronique :",
+            "options": [
+                "L'éthylisme chronique est une des causes les plus fréquentes d'épilepsie tardive",
+                { "choice": "L'épilepsie peut revêtir tous les types de crises", "explanation": "Vrai, mais elle est le plus souvent généralisée" },
+                "Elle ne nécessite un traitement antiépileptique au long cours que s'il y a un risque de crises avéré en dehors de toute alcoolisation",
+                "Les trois écueils du traitement antiépileptique au long cours sont : la mauvaise complicance, le risque de dépendance et une modification du métabolisme des antiépileptiques par l'alcool"
+            ],
+            "answer": [
+                0,
+		1,
+		2,
+		3
+            ]
+        },
+	{
+            "type": "multiple_choice",
+            "question": "A propos des neuropathies dans l'intoxication alcoolique chronique :",
+            "options": [
+                { "choice": "La neuropathie optique alcoolotabagique se manifeste par une baisse unilatérale de l'acuité visuelle", "explanation": "BILATERALE !!" },
+                { "choice": "La neuropathie optique comporte une dyschromatopsie, un scotome central, une pâleur papillaire précoce", "explanation": "Pâleur papillaire TARDIVE !!" },
+                "Le traitement de la neuropathie optique repose principalement sur la vitamino-thérapie B et l'arrêt de l'alcoolotabagisme",
+                "La polyneuropathie longueur-dépendante s'associe aux conséquences de la carence en vitamine B1 et en folates",
+		{ "choice": "La neuropathie toxique alcoolique touche surtout les grosses fibres sensitives", "expkanation": "Surtout les PETITES fibres sensitives" },
+		"La neuropathie carentielle en vitamine B1 a préférentiellement des conséquences motrices",
+		"A un stade évolué, il existe des douleurs, une anesthésie dystale symétrique en chaussettes, un steppage et des signes trophiques"
+            ],
+            "answer": [
+                2,
+		3,
+		5,
+		6
+            ]
         }
     ]
 }
