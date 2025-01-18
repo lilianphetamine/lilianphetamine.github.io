@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "type": "single_choice",
+            "question": "Qu'est-ce qu'un trouble neurocognitif majeur (TNC majeur) ?",
+            "options": [
+                "Altération durable de la mémoire seulement",
+                "Altération temporaire des fonctions cognitives, sans impact sur l’autonomie",
+                { "choice": "Altération durable des fonctions cognitives et comportementales, entraînant une perte d’autonomie", "explanation": "Un TNC majeur implique une altération durable de plusieurs fonctions cognitives (comme la mémoire, le langage, etc.) et/ou comportementales (comme la régulation des conduites sociales), avec un impact direct sur l'autonomie de la personne." },
+                "Perte de mémoire partielle uniquement, sans impact sur les activités quotidiennes"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "single_choice",
+            "question": "Quelle est la principale différence entre un trouble neurocognitif majeur et mineur ?",
+            "options": [
+                "Le trouble mineur implique un déclin cognitif plus marqué et une perte d’autonomie",
+                "Le trouble majeur n'a pas d'impact sur l'autonomie, contrairement au trouble mineur",
+                "Le trouble mineur ne touche pas les fonctions cognitives mais impacte la mémoire",
+                { "choice": "Le trouble majeur entraîne un impact sur l’autonomie, le trouble mineur non", "explanation": "Dans le trouble neurocognitif majeur (TNC), le déclin cognitif affecte l’autonomie quotidienne. Un TNC mineur se caractérise par un déclin cognitif modéré sans interférer de manière significative avec les activités quotidiennes." }
+            ],
+            "answer": 3
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels tests sont utilisés pour détecter un déclin cognitif dans le cadre de la détection des troubles neurocognitifs ?",
+            "options": [
+                { "choice": "MMSE", "explanation": "Le MMSE (Mini-Mental State Examination) est utilisé en soins primaires pour repérer un déclin cognitif." },
+                "IRM cérébrale",
+                { "choice": "Test Codex", "explanation": "Le test Codex associe des tests de mémoire et d’horloge pour évaluer les fonctions cognitives." },
+                "EEG"
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        }
+    ]
+}
