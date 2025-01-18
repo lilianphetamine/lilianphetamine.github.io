@@ -35,6 +35,74 @@
                 0,
                 2
             ]
+        },
+	{
+            "type": "single_choice",
+            "question": "Quelle est la première cause de démence en France ?",
+            "options": [
+                "Maladie de Parkinson",
+                "Maladie de Huntington",
+                { "choice": "Maladie d'Alzheimer", "explanation": "Elle représente 50 à 70% des troubles neurocognitifs majeurs en France." },
+                "Démence vasculaire"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels sont les facteurs de risque de la maladie d'Alzheimer ?",
+            "options": [
+                "Âge avancé",
+                "Bas niveau d'éducation",
+                { "choice": "Consommation modérée d'alcool", "explanation": "Cela est un facteur protecteur contre la maladie d'Alzheimer." },
+                "Antécédents familiaux",
+                "Prédisposition génétique : allèle ε4 de l'apolipoprotéine E"
+            ],
+            "answer": [0, 1, 3, 4]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quels sont les facteurs protecteurs contre la maladie d'Alzheimer ?",
+            "options": [
+                { "choice": "Activité physique", "explanation": "L'exercice physique aide à maintenir des fonctions cognitives optimales." },
+                { "choice": "Régime méditerranéen", "explanation": "Ce régime a des effets bénéfiques sur la santé cérébrale." },
+                "Âge avancé",
+                "Haut niveau d'éducation",
+                "Consommation modérée d'alcool"
+            ],
+            "answer": [0, 1, 3, 4]
+        },
+        {
+            "type": "single_choice",
+            "question": "Quel est le diagnostic définitif de la maladie d'Alzheimer ?",
+            "options": [
+                "Diagnostic clinique",
+                { "choice": "Diagnostic post-mortem", "explanation": "Le diagnostic de certitude de la maladie d'Alzheimer est seulement post-mortem." },
+                "Bilan biologique plasmatique",
+                "Diagnostic génétique moléculaire"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Quels arguments sont utilisés pour le diagnostic de la maladie d'Alzheimer ?",
+            "options": [
+                "Examen clinique seulement",
+                { "choice": "Combinaison d'arguments cliniques et d'imagerie cérébrale", "explanation": "C'est souvent l'association de ces arguments qui permet d'établir une probabilité élevée de la maladie." },
+                "Bilan biologique uniquement",
+                "Diagnostic génétique uniquement"
+            ],
+            "answer": 1
+        },
+        {
+            "type": "single_choice",
+            "question": "Dans quel cas la mutation génétique est suspectée pour la maladie d'Alzheimer ?",
+            "options": [
+                "Lors de troubles cognitifs importants",
+                { "choice": "Lorsque des antécédents familiaux de démence du sujet jeune (< 60 ans) sont présents", "explanation": "C'est un indice clé pour suspecter une mutation génétique autosomique dominante." },
+                "En cas d'apparition de la maladie après 70 ans",
+                "Si l'imagerie cérébrale présente une atrophie hippocampique"
+            ],
+            "answer": 1
         }
     ]
 }
