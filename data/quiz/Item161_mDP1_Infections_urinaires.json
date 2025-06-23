@@ -98,7 +98,7 @@
             "type": "single_choice",
             "question": "L'évolution de l'infection urinaire de Flavien est favorable. Quels examens pratiquez-vous de manière systématique dans le suivi de cette infection urinaire ?",
             "options": [
-                { "choice": "Aucune", "explanation": "Exact ! Si évolution favorable, pas de suivi particulier !" },
+                { "choice": "Aucun", "explanation": "Exact ! Si évolution favorable, pas de suivi particulier !" },
                 { "choice": "ECBU", "explanation": "Si évolution défavorable à 48-72 heures" },
                 { "choice": "Hémocultures", "explanation": "Si évolution défavorable à 48-72 heures" },
                 { "choice": "Echographie des voies urinaires", "explanation": "Pas de bilan complémentaire systématique en cas de 1er épisode" },
