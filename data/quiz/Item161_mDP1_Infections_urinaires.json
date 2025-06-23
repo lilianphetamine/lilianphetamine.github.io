@@ -105,6 +105,6 @@
 		{ "choice": "Débitmétrie urinaire", "explanation": "Après un 2ème épisode ou si signes évocateurs d'anomalies urinaires" }
             ],
             "answer": 0
-        },
+        }
     ]
 }
