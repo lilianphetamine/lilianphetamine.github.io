@@ -1,0 +1,110 @@
+{
+    "questions": [
+        {
+            "type": "multiple_choice",
+            "question": "Vous recevez en consultation médicale au Service d'Accueil des Urgences Flavien, 78 ans, qui a comme principaux antécédents une HTA, une insuffisance rénale chronique sévère (DFG = 28 ml/min) et un DT2 non insulino-réquérant. Il est adressé aux urgences par son médecin traitant pour différentes plaintes fonctionnelles : il se lève la nuit pour uriner, avec plusieurs mictions courtes, et il dit également que cela brûle. De plus, le patient présente des frissons et vous objectivez une température à 39,2°C. Quels signes retrouvez-vous à l'anamnèse ?",
+            "options": [
+                { "choice": "Nycturie", "explanation": "Il se lève la nuit pour uriner" },
+                { "choice": "Enurésie", "explanation": "Emission involontaire d'urine, ce qui n'est pas le cas chez le patient !" },
+                { "choice": "Brûlures mictionnelles", "explanation": "Symptomatologie décrite par le patient" },
+                { "choice": "Prostate augmentée de volume", "explanation": "On parle de l'anamnèse ici, pas de la clinique !" },
+		{ "choice": "Pollakiurie", "explanation": "Augmentation du nombre de mictions" }
+            ],
+            "answer": [
+                0,
+                2,
+		4
+            ]
+        },
+	{
+            "type": "single_choice",
+            "question": "Quel diagnostic suspectez-vous ? (1-3 mots)",
+            "options": [
+                { "choice": "Réponse à l'orale", "explanation": "Réponse = Prostatite aiguë / Infection urinaire masculine" }
+            ],
+            "answer": 0
+        },
+	{
+            "type": "single_choice",
+            "question": "Quel examen urologique pratiquez-vous ? (2 mots)",
+            "options": [
+                { "choice": "Réponse à l'orale", "explanation": "Réponse = Toucher rectal" }
+            ],
+            "answer": 0
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Au toucher rectal, vous notez une prostate douloureuse, régulière et augmentée de volume. Le patient a une fréquence respiratoire à 13/min, une pression artérielle à 135/78 mmHg, ainsi qu'une saturation en air ambiant à 97%. Quels examens complémentaires prescrivez-vous ?",
+            "options": [
+                { "choice": "Radiographie thoracique", "explanation": "Pas de signes fonctionnels respiratoires" },
+                { "choice": "Hémocultures", "explanation": "Systématiques SI fièvre chez l'homme en cas d'IU masculine" },
+                { "choice": "D-dimères", "explanation": "Pas dans le contexte" },
+                { "choice": "Bandelette urinaire", "explanation": "Systématique !" },
+		{ "choice": "ECBU", "explanation": "Systématique chez l'homme !" },
+		{ "choice": "Dosage PSA", "explanation": "Pas en aigu, augmentation transitoire pendant l'infection" },
+		{ "choice": "Uroscanner", "explanation": "Si suspicion de pyélonéphrite" },
+		{ "choice": "Echographie réno-vésico-prostatique", "explanation": "Demandée systématiquement dans les 24 heures" },
+		{ "choice": "Echographie endo-rectale", "explanation": "Contre-indiquée du fait des douleurs pelviennes qu'elle cause" }
+            ],
+            "answer": [
+                1,
+                3,
+		4,
+		7
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "La bandelette urinaire revient positive avec leucocyturie >10^4/ml, nitrires ++, l'antibiogramme est demandé et en attente. Pour rappel, le patient se dit vraiment gêné par les symptômes. Attendez-vous les résultats de l'antibiogramme ?",
+            "options": [
+                { "choice": "OUI", "explanation": "Uniquement si pas de SFU majeurs, patient stable et ABSENCE de fièvre" },
+		{ "choice": "NON", "explanation": "Vous démarrrez plutôt une ATB probabiliste devant la gêne majeure des SFU et la fièvre !" }
+            ],
+            "answer": 1
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Avant les résultats de l'antibiogramme, vous décidez de traiter l'infection urinaire masculine en probabiliste, quels traitements peuvent-être instaurés chez Flavien ?",
+            "options": [
+                { "choice": "Cotrimoxazole", "explanation": "Possible mais après adaptation à l'antibiogramme" },
+                { "choice": "Nitrofurantoïne", "explanation": "Diffusion prostatique insuffisante" },
+                { "choice": "C3G IV", "explanation": "Oui, il s'agit du même traitement que lors d'une PNA à risque de complications" },
+                { "choice": "Amoxicilline-acide clavulanique", "explanation": "Diffusion prostatique insuffisante" },
+		{ "choice": "Ofloxacine", "explanation": "Oui, il s'agit du même traitement que lors d'une PNA à risque de complications" }
+            ],
+            "answer": [
+                2,
+                4
+            ]
+        },
+        {
+            "type": "multiple_choice",
+            "question": "Quelles sont les complications à court terme de l'IU masculine ?",
+            "options": [
+                { "choice": "Chronicisation", "explanation": "Complication à moyen terme" },
+                { "choice": "Rétention aiguë d'urine", "explanation": "Possible" },
+                { "choice": "Pyélonéphrite", "explanation": "Possible" },
+                { "choice": "Sepsis grave", "explanation": "Possible" },
+		{ "choice": "Abcès prostatique", "explanation": "Possible" }
+            ],
+            "answer": [
+                1,
+                2,
+		3,
+		4
+            ]
+        },
+        {
+            "type": "single_choice",
+            "question": "L'évolution de l'infection urinaire de Flavien est favorable. Quels examens pratiquez-vous de manière systématique dans le suivi de cette infection urinaire ?",
+            "options": [
+                { "choice": "Aucune", "explanation": "Exact ! Si évolution favorable, pas de suivi particulier !" },
+                { "choice": "ECBU", "explanation": "Si évolution défavorable à 48-72 heures" },
+                { "choice": "Hémocultures", "explanation": "Si évolution défavorable à 48-72 heures" },
+                { "choice": "Echographie des voies urinaires", "explanation": "Pas de bilan complémentaire systématique en cas de 1er épisode" },
+		{ "choice": "Débitmétrie urinaire", "explanation": "Après un 2ème épisode ou si signes évocateurs d'anomalies urinaires" }
+            ],
+            "answer": 0
+        },
+    ]
+}
