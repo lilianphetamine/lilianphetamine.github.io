@@ -26,7 +26,7 @@
         },
 	{
             "type": "single_choice",
-            "question": "Quel examen urologique pratiquez-vous ? (2 mots)",
+            "question": "Quel examen urologique CLINIQUE pratiquez-vous ? (2 mots)",
             "options": [
                 { "choice": "Réponse à l'orale", "explanation": "Réponse = Toucher rectal" }
             ],
